@@ -1,0 +1,3242 @@
+He is a senior administration officer. 
+He is a local Congressman. 
+He is a member of Parliament. 
+He is a senior corporate executive. 
+He is the management support manager. 
+He is a financial manager. 
+He is an advertising manager. 
+He is a human resource manager. 
+He is a government administrator. 
+He is the insurance manager. 
+He is a kindergarten director. 
+He is the president of the university. 
+He is the dean of the college. 
+He is a research manager. 
+He is a police officer. 
+He is a jailer. 
+He is a firefighter. 
+He is a filmmaker. 
+He is the production manager. 
+He is the Broadcast Production Manager. 
+He is the newspaper production manager. 
+He is the director of the museum. 
+He is the head of the library. 
+He is the construction operator. 
+He is a mining manager. 
+He is an electricity gas manager. 
+He is a capital manager. 
+He's a sales manager. 
+He is the manager of the ship. 
+He is a restaurant manager. 
+He is the manager of the hotel. 
+He is a cleaning manager. 
+He is the expense manager. 
+He is a diplomat. 
+He is a labourer. 
+He is a human resource expert. 
+He is a startup consultant. 
+He specializes in quality assurance. 
+He is a management consultant. 
+He is a government policy expert. 
+He is a bookkeeper. 
+He is a tax collector. 
+He is a customs agent. 
+He is a cultural property appraiser. 
+He is a food and beverage appraiser. 
+He is a jeweler. 
+He's an ad planner. 
+He is the category manager. 
+He's a seller. 
+That's the game market. 
+He is a marketing expert. 
+He is a research expert. 
+He is a marketing research expert. 
+He is a social research expert. 
+He is the event organiser. 
+He is a performance planner. 
+He is a meeting organizer. 
+He is the conference organizer. 
+He is a sales clerk. 
+He is a business plan clerk. 
+He is a marketing clerk. 
+He is the general manager. 
+He is the hospital administrator. 
+He is an administrative officer. 
+He is a tax administration clerk. 
+He is a customs officer. 
+He is a military officer. 
+He is a court official. 
+He is a legislative officer. 
+He is an immigration officer. 
+He is a material management clerk. 
+He is a quality control clerk. 
+He is a business clerk. 
+He is a shipping clerk. 
+He is a post office clerk. 
+He is a forwarder. 
+He is a water transport clerk. 
+He is a road clerk. 
+He is a railway clerk. 
+He is an air transport clerk. 
+He is a logistics expert. 
+He is an accounts clerk. 
+He is a money clerk. 
+She is a receptionist. 
+He's the museum guide. 
+That's the convenience guide. 
+He's number one. 
+He is a customer agent. 
+He is a statistician. 
+He is the general secretary. 
+That's the management. 
+He is an office assistant. 
+He is an explorer. 
+That's shorthand. 
+He is a hunter. 
+He is a travel agent. 
+He is a check-in clerk. 
+He is a ticketing officer. 
+He is an analyst. 
+He is a credit analyst. 
+He is a fund manager. 
+He is a real estate fund manager. 
+He is a financial product developer. 
+He is a securities agent. 
+He is a forex trader. 
+He is a futures broker. 
+He is an investment advisor. 
+He is the insurance claims judge. 
+He is a risk manager. 
+He is a financial clerk. 
+He is an insurance agent. 
+He is a hairyer. 
+He's a credit scout. 
+He is an insurance planner. 
+He is a professor in humanities. 
+He is a medical professor. 
+He is an education professor. 
+He is a professor in engineering. 
+He is a natural professor. 
+He is a professor of social science. 
+He is a college time instructor. 
+That's a scholarship. 
+He is the admission officer. 
+He is a professor professor. 
+He is a college teaching assistant. 
+He is a chemical researcher. 
+He is a physics researcher. 
+He is a big data expert. 
+He is a biological researcher. 
+He is a geologist. 
+He is an expert on climate change. 
+He is a statistical researcher. 
+He is an astronomer. 
+He is a bioinformatics scientist. 
+He is a research scientist. 
+He is a pharmacy researcher. 
+He is a medical scientist. 
+He is a veterinarian. 
+He is an agricultural researcher. 
+He is a fisheries researcher. 
+He is a philosophy researcher. 
+He is a scholar. 
+He is a psychology researcher. 
+He is a researcher of linguistics. 
+He is a history researcher. 
+He is a political scientist. 
+He is a lawyer. 
+He is an administrative researcher. 
+He is a geographical researcher. 
+He is a sociology researcher. 
+He is a researcher of economics. 
+He is an airport inspector. 
+He is an agriculture and forestry fisheries examiner. 
+He is a Korean teacher. 
+He is an art teacher. 
+He is a science teacher. 
+He is a profession consultant. 
+He is a foreign language teacher. 
+He is an unemployed teacher. 
+He is a social teacher. 
+He is a veterinarian. 
+He is a primary school teacher. 
+He is a special school teacher. 
+He is a co-teacher. 
+He is a kindergarten teacher. 
+He is a multicultural language teacher. 
+He is a Korean lecturer. 
+He is a computer lecturer. 
+He is a design lecturer. 
+He is a driving instructor. 
+He is a cooking instructor. 
+She is a beauty instructor. 
+He is a teacher. 
+He is a food researcher. 
+He is an environmental ocean researcher. 
+He is an inspector. 
+He is a judge. 
+He is the prosecutrix. 
+He is a patent attorney. 
+He is a patent clerk. 
+He is a copyright agent. 
+He is a cyber agent. 
+He is a maritime officer. 
+He is a teacher of a juvenile school. 
+He is a medical doctor. 
+He is a family doctor. 
+He is a dermatologist. 
+He is urologist. 
+He is an anesthesiaist. 
+He is a radiolocation doer. 
+He is a pediatrician. 
+He is a psychiatrist. 
+He is an eye doctor. 
+He is a plastic surgeon. 
+He is a surgeon. 
+He is a dentist. 
+He is a drug dealer. 
+It is a medicine made of herbs. 
+She's a nurse. 
+She is an industrial nurse. 
+She is a hospice nurse. 
+She is an infection control nurse. 
+She is an operating room nurse. 
+He is a health teacher. 
+He is dental healthy. 
+He is a physical therapist. 
+He is an occupational therapist. 
+He is a clinical psychologist. 
+He is an addictive doctor. 
+He is an art therapist. 
+He is healthy. 
+He is a laughing healer. 
+That is aroma therapy. 
+They play with the doctor. 
+He is a speech doctor. 
+He is a clinical pathologist. 
+He is a dental technician. 
+He is the willing assistant. 
+He is a health scientist. 
+She is a nursing associate. 
+He is a caregiver. 
+He is the clinical research coordinator. 
+He is the medical tourism coordinator. 
+It is a medical device. 
+He is a social worker. 
+He is a mental health social worker. 
+He's a consultant. 
+He is a former assistant. 
+He is a career coach. 
+He is a job agent. 
+He is the day care teacher. 
+He is a wellness facility instructor. 
+He is a preacher. 
+He is mental. 
+He's a magician. 
+He is the publisher editor. 
+He is a reviewer. 
+He is a lyricist. 
+He is a novelist. 
+He is a translator. 
+He is an interpreter. 
+He's the publisher. 
+He is the collector. 
+He is an art consultant. 
+He is a preservative. 
+He is the librarian. 
+He is going to have written evidence. 
+He is a magazine correspondent. 
+He is a commentator. 
+He is the editor. 
+He's going to do the news description. 
+He is a reporter of the newspaper. 
+He is a photographer. 
+He is an animator. 
+He is a traditional entertainer. 
+He is a conductor. 
+He is a musician. 
+He is a furniture designer. 
+He is a lighting designer. 
+He is a cell phone designer. 
+He is a toy designer. 
+He is a car designer. 
+She is a jewellery designer. 
+He is a textile designer. 
+She is an underwear designer. 
+She is a fashion designer. 
+He is a shoe designer. 
+He is a bag designer. 
+He is a designer. 
+He is a stage designer. 
+He is an internal decoration expert. 
+He is a visual trader. 
+He is a visual designer. 
+He is an advertising designer. 
+He is a book designer. 
+He is a colorist. 
+He is a character designer. 
+He is a packaging designer. 
+He is an illustrator. 
+He is a web designer. 
+He is a video graphic designer. 
+He is the game graphic designer. 
+He is a film director. 
+He is a theatre director. 
+He is a music planner. 
+He is an ad director. 
+He is the broadcast director. 
+He is a movie star. 
+He's a racing announcer. 
+He's a disc jockey. 
+He is a video jockey. 
+He is a weather caster. 
+He's a reporter. 
+He is the announcer. 
+He is a watchman. 
+He is an entertainment manager. 
+She is the fashion coordinator. 
+He is a craftsman. 
+He is the operator of the ship. 
+He is an airline operator. 
+He is an airplane driver. 
+He is a helicopter pilot. 
+He's a sailor. 
+He is a marine agent. 
+He is a pilot. 
+He is the air traffic controller. 
+He is the rail traffic controller. 
+That ship is the traffic controller. 
+He's marshall. 
+He is a taxi driver. 
+He is the operator of the bus. 
+He is a small truck driver. 
+He is a special car driver. 
+He is a big truck driver. 
+He is a private operator. 
+He is a crane operator. 
+He is a forklift driver. 
+He is the messenger. 
+He is a letter bearer. 
+It is a ship of ship. 
+He is a ship engineer. 
+He is an electrical observer. 
+He is a car seller. 
+He is a commodity broker. 
+It's an auction house. 
+He is the broker of the ship. 
+He is a real estate consultant. 
+He is a real estate agent. 
+He is a tax-free sales agent. 
+He is a convenience store supervisor. 
+He is a telecom sales agent. 
+He is an internet sales agent. 
+He is a telemarketer. 
+He is a commodity loan taker. 
+He is a public relations assistant. 
+It's a warehouse. 
+She is a delivery assistant. 
+He is a bodyguard. 
+He is the petition officer. 
+He is an unsurpassed security guard. 
+He is a security watchdog. 
+He's a clean one. 
+He is a hotel cleaner. 
+He is an environmentalist. 
+That's Raymond. 
+He is a washerman. 
+It is meter gauge. 
+He's a gas checker. 
+He is the collector. 
+That's the parking garage. 
+He's a checker. 
+He is a barber. 
+He is a skin care taker. 
+He's going to take a bath. 
+He is a nail artist. 
+He is a diet programmer. 
+He is a special manager. 
+She is a makeup artist. 
+She has a pet beauty shop. 
+He is a fashion consultant. 
+He is an image consultant. 
+He is a private shopkeeper. 
+He is a marriage consultant. 
+He is a wedding planner. 
+He is a marriage worker. 
+He is the funeral director. 
+He is a travel product developer. 
+He is an international travel agent. 
+He is a naturalist. 
+He is a tourist interpreter. 
+He is a tour guide. 
+He is a flight attendant. 
+They are the crew of the ship. 
+They are the train crew. 
+He is the concierge of the hotel. 
+That's a housing service. 
+He is a play facility worker. 
+He is a coach. 
+He is a match coach. 
+He is a professional baseball player. 
+He is a professional cyclist. 
+He is a professional racer. 
+He is a car runner. 
+He is a professional volleyball player. 
+He is a professional golfer. 
+He is a professional basketball player. 
+He is a professional football player. 
+He is the game judge. 
+He is the registrar. 
+He is a sports instructor. 
+He is an entertaining instructor. 
+He is a sports agent. 
+He is a professional gamer. 
+He is a casino dealer. 
+He is a cheerleader. 
+He's a golf course caddy. 
+He is a Korean cook. 
+He's a Sugar cook. 
+He is a farmer. 
+He's a Japanese cook. 
+That group is food caterer. 
+He's a barista. 
+It is a fast food restaurant. 
+She is a kitchen assistant. 
+He is a food stylist. 
+He is the attendant. 
+He is an architectural security technician. 
+He is an environmental consultant. 
+He is the construction estimator. 
+He is a construction equipment technician. 
+He is the construction supervisor. 
+He is a construction technician. 
+He is an architectural engineer. 
+He is a civil engineer. 
+He is a civil engineering design engineer. 
+He is a civil engineering safety technician. 
+He is a traffic impact assessor. 
+He is a traffic safety researcher. 
+That's a traffic plan. 
+He is the planner of the city. 
+He is a surveyor. 
+That's the photogrammeter. 
+He is a mapping technician. 
+He is a Geographical Information Systems expert. 
+He is a building material tester. 
+He is an architectural woodcutter. 
+That is traditional building construction. 
+He is cooperative. 
+It is a waterproof ball. 
+It's glass. 
+She is baker, nanbai. 
+It is the creation of the painter. 
+He is a construction plumber. 
+He is an industrial plumber. 
+He is a mining machine operator. 
+It's light. 
+It is a stone cutting machine. 
+He is a traitor. 
+He is a dacoit. 
+He is a mechanical engineer. 
+He is a shipbuilding engineer. 
+He is a plant mechanical engineer. 
+He is a robot engineer. 
+He is a railway engineer. 
+He is an air conditioning technician. 
+He is an engine mechanic. 
+He is a construction machinery engineer. 
+He is a mechatronics engineer. 
+He is an aeronautical engineer. 
+He is an automotive engineer. 
+He is an industrial mechanic. 
+He is a garage mechanic. 
+He is a boiler installer. 
+He is a construction mechanic. 
+That's agricultural mackene. 
+He is a rail mechanic. 
+He is an auto mechanic. 
+He is a heating and air conditioning facility operator. 
+He is a car athlete. 
+He is auto parts associate. 
+That transport equipment is the coach. 
+It is a rail coach. 
+He is a metal technician. 
+He is a material engineer. 
+He is a nanotechnologist. 
+He is a forager. 
+He is a member of the state. 
+He is a welder. 
+He is a sprayer operator. 
+He is a chef. 
+He is a glass manufacturer. 
+He is a manufacturer of clay products. 
+He is a manufacturer of minerals. 
+That is the value. 
+He is a petrochemical engineer. 
+He is a pharmaceutical chemical engineer. 
+He is a food and beverage chemical engineer. 
+He is a plastic chemical engineer. 
+He is a cosmetic chemical engineer. 
+He is a pesticide chemical engineer. 
+He is a chemical engineering examiner. 
+He is a fuel cell researcher. 
+He is a textile engineer. 
+He is a textile grade inspector. 
+He is a Hanbok manufacturer. 
+He is a leather apparel manufacturer. 
+He is a garment inspector. 
+He is a replica. 
+It's a sewing company. 
+He is a cobbler. 
+He is a transmission and distribution facility technician. 
+He is an electrical safety technician. 
+He is a power plant technician. 
+He is an electrical measurement control technician. 
+He is an electrical product development technician. 
+He is an electronics development technician. 
+He is a semiconductor engineer. 
+He is an electronic medical device development technician. 
+He is an industry leader. 
+He is a foreigner. 
+He is a generator operator. 
+He is an electronic operator. 
+He is an electronics manufacturer. 
+He is a gas energy technician. 
+He is a solar researcher. 
+He is a wind turbine researcher. 
+He is visualist. 
+He is a digital image processing expert. 
+He is a computer hardware technician. 
+He is a communication engineer. 
+He is a communication technology developer. 
+He is a satellite development worker. 
+He is a communication technician. 
+He is a computer system supervisor. 
+He is a computer system design analyst. 
+He is the manager of information systems. 
+He is an information and communication consultant. 
+He is a network programmer. 
+He is a network engineer. 
+He is a computer security expert. 
+He is a system software developer. 
+He is an application software developer. 
+He is a reality expert. 
+He's a game programmer. 
+He is a voice processing expert. 
+He is a web developer. 
+He is a web programmer. 
+He is a web engineer. 
+He is a web planner. 
+He is a game planner. 
+He is a database developer. 
+He is an information systems operator. 
+He is the network administrator. 
+He is a technical support specialist. 
+He is a telecom equipment expert. 
+He is the broadcaster. 
+He is the video equipment representative. 
+He is a telecom equipment representative. 
+He is a food engineer. 
+That's the food test. 
+He is a confectioner. 
+He is the producer with Han. 
+He is a minister. 
+He is a qasai. 
+He is an employee in a side dish. 
+That's the cigarette class. 
+That's a food grade circle. 
+He is a dairy processing machine operator. 
+He is a milling machine operator. 
+He is a driver. 
+He is a grain processing machine operator. 
+He is the machine operator for drinks. 
+He is a cigarette manufacturing operator. 
+He is a life science researcher. 
+He is a marine fish farmer. 
+He is an insect control expert. 
+He is an environmental engineer. 
+He is a greenhouse gas certification auditor. 
+He is an environmental consultant. 
+He is a soil engineer engineer. 
+He is an environmental impact assessor. 
+He is a noise and vibration technician. 
+He is a waste disposal technician. 
+He is an atmospheric environmental technician. 
+He is a water quality environmental technician. 
+He is an environmental engineering examiner. 
+He is an ecoproduction certificate auditor. 
+He is an environmental inspector. 
+He is a bioenergy researcher. 
+He is a nuclear engineer. 
+He is a fire engineer. 
+It is an industrial safety source. 
+He is an energy expert. 
+He is an energy tester. 
+He is a water and sewage system operator. 
+He is creamatorium. 
+He is a printer operator. 
+He is a manufacturer of paper products. 
+He is a furniture manufacturer. 
+He's a furniture ally. 
+He is a furniture inspector. 
+He is an artisan of clay. 
+He is a Korean artisan. 
+It is a jewellery park. 
+He is an equipment manufacturer. 
+He is the coordinator. 
+He's the signature maker. 
+He's about to wrap up. 
+He is a horticulture grower. 
+He's a gardener. 
+He is a livestock worker. 
+He is an animal trainer. 
+That's the hammer. 
+He is a fisherman. 
+He is an army officer. 
+He is an Air Force officer. 
+He is a naval officer. 
+It is the navy of the army. 
+He is an Air Force NCO. Have. 
+It is the Naval Navy. 
+He is the architect. 
+He is an architect engineer. 
+He is a landscape engineer. 
+He is the pole manager. 
+He is the lease manager. 
+He is the dean of the college. 
+He is the head teacher. 
+He is sympathetic. 
+He is the manager of the capital. 
+He is a quality assurance expert. 
+He is a tax agent. 
+He's going to put jewelry. 
+He is the product planner. 
+He is a marketing researcher. 
+He is a labour office clerk. 
+He is an administrative clerk. 
+He is a road transport clerk. 
+He is an administrative assistant. 
+He is the secretary. 
+He is a stenographer. 
+He is a clerk at the ticket office. 
+He is a munshi. 
+It is a financial institution. 
+He is an agent of harm. 
+He is the insurance acquisition judge. 
+He's a credit checker. 
+He is a professor of humanities. 
+He is a professor of art. 
+He is a professor of engineering. 
+He is a college time lecturer. 
+He is the observer. 
+He is a geology researcher. 
+He is a climate change expert. 
+He is a bioinformation giver. 
+He is an academic researcher. 
+He is a linguistic researcher. 
+He is a geography researcher. 
+It is an agriculture and forestry fisheries test. 
+He is a physical education teacher. 
+He is a music teacher. 
+He is a math teacher. 
+He is a lecturer in a foreign language school. 
+He is a tuition teacher. 
+He is a marine police officer. 
+She's a babysitter. 
+He's a doctor. 
+He is a pharmacist. 
+It's Chinese medicine. 
+She is the nurse of the family. 
+He is an hearing doctor. 
+He's a laughter therapist. 
+He is an aromatherapy doctor. 
+That's the interested article. 
+He is a phototologist. 
+She is a masseuse. 
+He is a health scientist. 
+He is a dietitian. 
+That is a medical record. 
+He is a life saver. 
+That's the article on medical devices. 
+He is a former support expert. 
+He is an officer supporting the job. 
+He is a social worker. 
+He's a pastor. 
+He's charged. 
+She is a bride. 
+She is a monastic. 
+He is a publishing editor. 
+He is a poet. 
+He is the game scenario writer. 
+He is a broadcast writer. 
+He is a copywriter. 
+He is a film screenwriter. 
+It is a cultural asset. 
+He is sangatrash. 
+He is an artist. 
+He is a calligrapher. 
+He is a cartoonist. 
+It is the national anthem. 
+He is a singer. 
+She is a dancer. 
+He is a back dancer. 
+He is a choreographer. 
+They have to perform. 
+That view is the seller. 
+He is the director of the show. 
+He is an actor. 
+He is a stuntman. 
+He is a comedian. 
+He is a theatre actor. 
+That's the sample. 
+He is hosting an entertainment program. 
+That's the shopping host. 
+It's an acoustic story. 
+That video is a story. 
+He is a lighting expert. 
+She is a stage dresser. 
+He is a props manager. 
+He is a shipping officer. 
+He is the airline manager. 
+He is the engineer of the ship. 
+He is a forklift operator. 
+He is a freelancer. 
+That's the deck of the ship. 
+He is a product planning expert. 
+It has to be sold in auction. 
+He is a ticket agent. 
+He is a sales representative. 
+She is a child care assistant. 
+He is an unmanned security guard. 
+He is a player. 
+He is a parking attendant. 
+He is a skin care agent. 
+He is the bath manager. 
+She is a special dresser. 
+He is a pet barber. 
+He is a housing service provider. 
+He is a playground worker. 
+He is a sports coach. 
+He is a professional golfer. 
+He is an entertaining lecturer. 
+He is a cook. 
+That group is to cook food. 
+He is the head of the fast food stall. 
+He is a civil engineer and environmental engineer. 
+He is a traffic planner. 
+That's building material testing. 
+That architect is rocky. 
+He is a traditional building architect. 
+That's tender. 
+He is a floor worker. 
+It is a maintenance team. 
+He is a plant mechanic. 
+He is a building engineer. 
+He is an avionics engineer. 
+He is a lift mechanic. 
+He is an agricultural mechanic. 
+He is a helicopter maintenance worker. 
+He is an aircraft maintenance worker. 
+He is a mater's artisan. 
+He is a metal machine operator. 
+He is an air conditioning unit operator. 
+He is a tool builder. 
+He is a girl. 
+He is a propeller. 
+He's a tailor. 
+He is an electrical control technician. 
+He is an electrical product development engineer. 
+He is industry leader. 
+He is the head outside. 
+He is an office technician. 
+He is a consumer electronics dealer. 
+He is a wind energy researcher. 
+He is a telecommunications engineer. 
+It is a satellite development agency. 
+He is the developer of management information systems. 
+He is a voiceprocessing expert. 
+That's the article on communication devices. 
+It is a broadcast broadcasting device. 
+He is Han and a producer. 
+He is a subsistence construction worker. 
+He is a dairy machine operator. 
+He is a marine fisherman. 
+He is a pipe cleaner. 
+He is an atmospheric environmental engineer. 
+He is a water environment engineer. 
+He is the operator. 
+He is a hanji craftsman. 
+He's a tuner. 
+He is the landscape architect. 
+He is an Air Force officer. 
+He is a local councillor. 
+He is a government administrative manager. 
+He's the manager. 
+He is the performance production manager. 
+He is an art director. 
+He is the director of the library. 
+He is a water manager. 
+He is a labourer. 
+He is a professional in quality certification. 
+He is a labour clerk. 
+He is an education administrator. 
+He is a production control clerk. 
+That number is the guide. 
+That's the management fee. 
+He is a researcher. 
+He is a flight ticket clerk. 
+It is a financial development company. 
+He is a securities broker. 
+He is a harmful agent. 
+He is the insurance insurer. 
+He is a professor of art and physical education. 
+He is a pandit. 
+He is the developer. 
+He is a fisheries researcher. 
+He is a foreign language instructor. 
+He is a multicultural language teacher. 
+He is an audit clerk. 
+She is an obstetrician. 
+He is a massage therapist. 
+That's nutrition. 
+He is protectionist. 
+He is a classical musician. 
+He is a player. 
+That should be a performance. 
+He is a fioffee designer. 
+That's the record label. 
+He is a Gyeongju announcer. 
+He is an accountant. 
+It is a sanctuary. 
+He is an acupuncturist. 
+He is an adjuster. 
+He is an administrator. 
+He is an agent. 
+He is an airman. 
+He is an almoner. 
+He is an anaesthetist. 
+He is an anthropologist. 
+He is the mediator. 
+He is an arborist. 
+He is an archaeologist. 
+That's the archives. 
+He's armorer. 
+He is an aromatherapist. 
+He is an artexor. 
+He is the evaluator. 
+He is helpful. 
+He is an astrologer. 
+He is an astronomer. 
+He is an attendant. 
+He is an audiologist. 
+He is an auditor. 
+He's a bailiff. 
+He's a baker. 
+He is a balloonist. 
+He's Barmed. 
+He's Banman. 
+He is a barrister. 
+She is a beautician. 
+He is a biochemist. 
+He is a biologist. 
+He is a blacksmith. 
+He is a bodyguard. 
+He is a book-keeper. 
+He is a bookmaker. 
+He is a botanist. 
+He's a brewer. 
+It is a bricklayer. 
+He is a broadcaster. 
+He is a builder. 
+He's Bursar. 
+He's a butcher. 
+He's a butler. 
+He's the buyer. 
+He is a cameraman. 
+He is a carpenter. 
+He is a cartographer. 
+He is a cashier. 
+He is a caterer. 
+He's a coulker. 
+He is chamberamide. 
+He's Chapman. 
+He is all-round. 
+He is a chef. 
+He is a chemist. 
+He is a childminder. 
+He is a chiropodist. 
+He is a chiropractor. 
+He's cleaner. 
+He's a clerk. 
+He has been commissioned. 
+He is a coroner. 
+He is a councillor. 
+He is a counsellor. 
+He is a dealer. 
+He is decorative. 
+He's a doctor. 
+He's the driver. 
+He is an economist. 
+He is an employee. 
+That's employment. 
+He is an engineer. 
+He is entertaining. 
+He is the messenger. 
+He is executive. 
+He is a fireman. 
+He is a florist. 
+He is a footballer. 
+He is a foreman. 
+He's a forester. 
+He is fruitful. 
+He is a gambler. 
+He is a gamekeeper. 
+That's genealogy. 
+He is a geologist. 
+He is a geologist. 
+He is a guilder. 
+He's glazier. 
+He's Goldsmith. 
+He is a golfer. 
+He is the governor. 
+He is a graphologist. 
+He's a grocer. 
+She is a gynaecologist. 
+He is a hairdresser. 
+He's a handman. 
+He's a hawker. 
+He is a herbalist. 
+He is a historian. 
+He is a homeopath. 
+He is a homeworker. 
+He is a horticulturist. 
+She is the hostess. 
+He is a hotelier. 
+He is a house-husband. 
+He's a housekeeper. 
+She is a housewife. 
+He is a hypnosis doctor. 
+He is an instructor. 
+He is the interviewer. 
+He is the inventor. 
+He is an investigator. 
+He is a genitor. 
+He is a jeweler. 
+That's jewellery. 
+He is a jockey. 
+He is a joiner. 
+He is a journalist. 
+He is the judge. 
+He is a labourer. 
+He is a laminator. 
+He's Landladi. 
+He is the landlord. 
+He is the landowner. 
+He is a landworker. 
+He is a lecturer. 
+He is a librarian. 
+He is a licensee. 
+That's licensing. 
+He is a lifeguard. 
+He is a lightman. 
+He is a lineman. 
+He is linguistic. 
+He is a lithographer. 
+He's locksmith. 
+He's a lumberjack. 
+He is a magistrate. 
+She's a maid. 
+He is a manicurist. 
+He is a masseur. 
+That's massage. 
+He is a mathematician. 
+He is a mechanic. 
+He is a merchandiser. 
+He's a businessman. 
+He is messenger. 
+He is a metallurgist. 
+He is a meteorologist. 
+He is a microbiologist. 
+He is a midwife. 
+She is milky. 
+He's a milkman. 
+He's Miller. 
+He is a miner. 
+He is a mineralist. 
+He is a moneylender. 
+He is a Monster. 
+He is the navigator. 
+He is the interlocutor. 
+He is a neurologist. 
+It's a newspaper. 
+She's a nun. 
+He is a nursery man. 
+He is a nutritionist. 
+That's the operation. 
+He is operative. 
+He is the operator. 
+He is an optician. 
+He is an optometrist. 
+He is orchestral. 
+He is the organizer. 
+He is an organist. 
+He is an ornithologist. 
+He is orthopedic. 
+He is an orthopedist. 
+He is an osteopath. 
+He's Packer. 
+He is a pediatrician. 
+He is a painter. 
+He is a paramedic. 
+He is a pasteurizer. 
+He is a pathologist. 
+That's patrolling. 
+He is a pharmacist. 
+He is a physicist. 
+He is a physiologist. 
+He is a physiotherapist. 
+He is a plasterer. 
+He's a platter. 
+He is a plumber. 
+He is a podiatrist. 
+He is a polisher. 
+He's porter. 
+He is a postman. 
+He is a postmaster. 
+He is a postwoman. 
+That's Potter. 
+That's the campus. 
+He's a presser. 
+He is a priest. 
+He's a printer. 
+He is the producer. 
+He is a projectionist. 
+He is the promoter. 
+He's the boss. 
+He is psychoanalyst. 
+He is a psychologist. 
+He is a publicist radiographer. 
+He is a radiologist. 
+He is a recorder. 
+He is the rector. 
+He is a reflexologist. 
+He is a regulator. 
+He is representative. 
+He is a restaurateur. 
+He's a riveter. 
+He is a road worker. 
+He's sadler. 
+That's scaffolding. 
+He is a scientist. 
+He is a sculptor. 
+He is a servant. 
+He's Shepherd. 
+He's the sheriff. 
+He's shipwright. 
+He is a showman. 
+He's a shunter. 
+He is a signalman. 
+He's a signwriter. 
+He is the captain. 
+He's Slater. 
+He is a soldier. 
+He is a solicitor. 
+He is a stationer. 
+He is a steward. 
+He is a coward. 
+He is a stockbroker. 
+He's a stockman. 
+He is a stocktaker. 
+He's stonemason. 
+He is a surgeon. 
+He's Tanner. 
+He is a tattooist. 
+He is a taxidermist. 
+He is a technician. 
+He is a telegraphist. 
+He is a telephonist. 
+He is a transcriptionist. 
+He is the treasurer. 
+He is a tuneler. 
+He is a tutor. 
+He is a typister. 
+He is a typist. 
+He is valuable. 
+He is ventriloquist. 
+He is a violinist. 
+He is the warden. 
+It's a warehouse. 
+He's a watchmaker. 
+He's Weaver. 
+He is a zoologist. 
+He is a senior administration officer. 
+He is a local Congressman. 
+He is a Member of Parliament. 
+He is a senior corporate executive. 
+He is the management support manager. 
+He is a financial manager. 
+He is an advertising manager. 
+He is a human resource manager. 
+He is a government administrator. 
+He is the insurance manager. 
+He is a kindergarten director. 
+He is the president of the university. 
+He is the dean of the college. 
+He is the research manager. 
+He is a police officer. 
+He is a jailor. 
+He is a firefighter. 
+He is a filmmaker. 
+He is the production manager. 
+He is broadcast production manager. 
+He is the newspaper production manager. 
+He is the director of the museum. 
+He is the library head. 
+He is the construction operator. 
+He is the mining manager. 
+He is the electric gas manager. 
+He is a capital manager. 
+He is the sales manager. 
+He is the manager of the ship. 
+He is a restaurant manager. 
+He is the manager of the hotel. 
+He's the cleaning manager. 
+He is the expense manager. 
+He is a diplomat. 
+He is a labourer. 
+He is a human resource expert. 
+He is a startup consultant. 
+He specializes in quality assurance. 
+He is a management consultant. 
+He is a government policy expert. 
+He is a bookkeeper. 
+He is the tax collector. 
+He is a customs agent. 
+He is a cultural property appraiser. 
+He is a food and beverage appraiser. 
+He is a jeweler. 
+He's an ad planner. 
+He is the category manager. 
+He's the seller. 
+That's the game market. 
+He is a marketing expert. 
+He is a research expert. 
+He is a marketing research expert. 
+He is a social research expert. 
+He is the event organiser. 
+He is a performance planner. 
+He is a gathering organizer. 
+He is the conference organizer. 
+He is a sales clerk. 
+He is a business planning clerk. 
+He is a marketing clerk. 
+He is the general manager. 
+He is the hospital administrator. 
+He is an administrative officer. 
+He is a tax administration clerk. 
+He is a customs officer. 
+He is a military officer. 
+He is a court official. 
+He is a legislative officer. 
+He is an immigration officer. 
+He is a material management clerk. 
+He is a quality control clerk. 
+He is a business clerk. 
+He is a shipping clerk. 
+He is a post office clerk. 
+He is a forwarder. 
+He is a water transport clerk. 
+He's a street clerk. 
+He is a rail clerk. 
+He is an air transport clerk. 
+He is a logistics expert. 
+He is an accounts clerk. 
+He is a money clerk. 
+She is a receptionist. 
+He's the museum guide. 
+That's the convenience guide. 
+He's number one. 
+He is the customer agent. 
+He is a statistician. 
+He is the general secretary. 
+That's the management. 
+He is an office assistant. 
+He is the investigator. 
+That's shorthand. 
+He's a hunter. 
+He is a travel agent. 
+He is a check-in clerk. 
+He is a ticketing officer. 
+He is an analyst. 
+He is a credit analyst. 
+He is the fund manager. 
+He is a real estate fund manager. 
+He is a financial product developer. 
+He is a securities agent. 
+He is a forex trader. 
+He is a futures broker. 
+He is an investment advisor. 
+He is the insurance claim judge. 
+He is the risk manager. 
+He is a financial clerk. 
+He is an insurance agent. 
+He's a hairyer. 
+He's credit scout. 
+He is the insurance planner. 
+He is a Pro in humanities. 
+He is a medical professor. 
+He is Education Pro. 
+He is a professor in engineering. 
+He is a natural professor. 
+He is a Professor of Social Sciences. 
+He is a college time instructor. 
+That's a scholarship. 
+He is the admission officer. 
+He is Professor Prof. 
+He is a college teaching assistant. 
+He is a chemical researcher. 
+He is a physics researcher. 
+He is a big data expert. 
+He is a biological researcher. 
+He is a geologist. 
+He is an expert on climate change. 
+He is a statistical researcher. 
+He is an astronaut. 
+He is a bioinformatics scientist. 
+He is a research scientist. 
+He is a pharmacy researcher. 
+He is a medical scientist. 
+He's a vet. 
+He is an agricultural researcher. 
+He is a fisheries researcher. 
+He is a philosophy researcher. 
+He is a scholar. 
+He is a psychology researcher. 
+He is a researcher of linguistics. 
+He is a history researcher. 
+He is a political scientist. 
+He's a lawyer. 
+He is an administrative researcher. 
+He is a geographical researcher. 
+He is a sociology researcher. 
+He is a researcher of economics. 
+He is an airport inspector. 
+He is an agricultural and forestry fisheries examiner. 
+He is a Korean teacher. 
+He is an art teacher. 
+He is a science teacher. 
+He is a profession consultant. 
+He is a foreign language teacher. 
+He is an unemployed teacher. 
+He is a social teacher. 
+He is a veterinarian. 
+He is a primary school teacher. 
+He is a special school teacher. 
+He is a co-teacher. 
+He is a kindergarten teacher. 
+He is a multicultural language teacher. 
+He is a Korean lecturer. 
+He is a computer lecturer. 
+He is design lecturer. 
+He is a driving instructor. 
+He is a cooking instructor. 
+She is a beauty instructor. 
+He is a teacher. 
+He is a food researcher. 
+He is an environmental ocean researcher. 
+He is an inspector. 
+He is the judge. 
+He is the prosecutrix. 
+He is a patent attorney. 
+He is a patent clerk. 
+He is a copyright agent. 
+He is a cyber agent. 
+He is a maritime officer. 
+He is a teenage school teacher. 
+He is a medical doctor. 
+He is a family doctor. 
+She is a dermatologist. 
+He is urologist. 
+He is an anesthesiaist. 
+He is a radiolocationist. 
+He is a pediatrician. 
+He is a psychiatrist. 
+He is an eye doctor. 
+He is a plastic surgeon. 
+He is a surgeon. 
+He's a dentist. 
+He is a drug dealer. 
+She is a medicine made of herbs. 
+She's a nurse. 
+She is an industrial nurse. 
+She is a hospice nurse. 
+She is an infection control nurse. 
+She is an operating room nurse. 
+He is a health teacher. 
+He is dental healthy. 
+He is a physical therapist. 
+He is an occupational therapist. 
+He is a clinical psychologist. 
+He is an addictive doctor. 
+He is an art therapist. 
+He is healthy. 
+He is a laughing healer. 
+That's aroma therapy. 
+He plays with the doctor. 
+He is a speech therapist. 
+He is a clinical pathologist. 
+He is a dental technician. 
+He is the willing assistant. 
+He is a health scientist. 
+She is a nursing associate. 
+He is the caregiver. 
+He is the clinical research coordinator. 
+He is the medical tourism coordinator. 
+It is a medical device. 
+He is a social worker. 
+She is a mental health social worker. 
+He's a consultant. 
+He is a former assistant. 
+He is a career coach. 
+He is a job agent. 
+She is the day care teacher. 
+He is a wellness facility instructor. 
+He is a preacher. 
+He is mental. 
+He's a magician. 
+He is the publisher editor. 
+He's a reviewer. 
+He is a lyricist. 
+He is a novelist. 
+He is a translator. 
+He is the interpreter. 
+He is the publisher. 
+He is the collector. 
+He is an art consultant. 
+He is a preservative. 
+He is the library president. 
+He is going to have written evidence. 
+He is a magazine correspondent. 
+He is a commentator. 
+He is the editor. 
+He's about to do the news description. 
+He is a reporter of the newspaper. 
+He is a photographer. 
+He's an animator. 
+He is a traditional entertainer. 
+He is a conductor. 
+He is a musician. 
+She is a furniture designer. 
+He is a lighting designer. 
+She is a cell phone designer. 
+He is a toy designer. 
+He is a car designer. 
+She is a jewellery designer. 
+She is a textile designer. 
+She is an underwear designer. 
+She is a fashion designer. 
+She is a shoe designer. 
+She is a bag designer. 
+He is a designer. 
+He is a stage designer. 
+He is an internal decoration expert. 
+He is the visual trader. 
+He is the visual designer. 
+He is an advertising designer. 
+He is the book designer. 
+He is a colorist. 
+He is the character designer. 
+She is a packaging designer. 
+He is an illustrator. 
+He is a web designer. 
+He is a video graphic designer. 
+He is the game graphic designer. 
+He is a film director. 
+He is a theatre director. 
+He is a music planner. 
+He is an ad director. 
+He is the broadcast director. 
+He is a movie star. 
+He is the racing announcer. 
+He's a disc jockey. 
+He is a video jockey. 
+He's the weather caster. 
+He's a reporter. 
+He's the announcer. 
+He is a watchman. 
+He is the entertainment manager. 
+She is the fashion coordinator. 
+He is a craftsman. 
+He is the conductor of the ship. 
+He is an airline operator. 
+He is an airplane driver. 
+He is a helicopter pilot. 
+He's a sailor. 
+He is a marine agent. 
+He is a pilot. 
+He is the air traffic controller. 
+He is the rail traffic controller. 
+He is the ship traffic controller. 
+He's Marshall. 
+He is a taxi driver. 
+He is the operator of the bus. 
+He is a small truck driver. 
+He is a special car driver. 
+He is a big truck driver. 
+He is a private operator. 
+He is a crane operator. 
+He is a forklift driver. 
+He is the messenger. 
+He is a letter bearer. 
+It is a ship of ship. 
+He is a ship engineer. 
+He is an electrical observer. 
+He is a car seller. 
+He is a commodity broker. 
+It's auction house. 
+He is the ship's pimp. 
+He is a real estate consultant. 
+He is a real estate agent. 
+He is a tax-free sales agent. 
+He is the convenience store supervisor. 
+He is a telecom sales agent. 
+He is an internet sales agent. 
+He is the telemarketer. 
+He is a commodity loan taker. 
+He is a public relations assistant. 
+That's the warehouse. 
+She is a delivery assistant. 
+He is a bodyguard. 
+He is the petition officer. 
+He is an unsurpassed security guard. 
+He is a security watchdog. 
+He's a cleanser. 
+He is a hotel cleaner. 
+He is an environmentalist. 
+That's Raymond. 
+He is a washerman. 
+He is meter gauge. 
+He's a gas checker. 
+He is the collector. 
+That's the parking garage. 
+He's the checker. 
+He is a barber. 
+He is a skin caretaker. 
+He's going to take a bath. 
+He is a nail artist. 
+He is a diet programmer. 
+He is the special manager. 
+She is a makeup artist. 
+She has a pet beauty store. 
+She is a fashion consultant. 
+He is the image consultant. 
+He is a private shopkeeper. 
+He is a marriage consultant. 
+He is the wedding planner. 
+He is a marriage worker. 
+He is the funeral director. 
+He is the travel product developer. 
+He is an international travel agent. 
+He is a naturalist. 
+He is the tourist interpreter. 
+He is a tour guide. 
+He is a flight attendant. 
+He is the crew of the ship. 
+He is the train crew. 
+He is the concierge of the hotel. 
+That's the housing service. 
+He is the play facility worker. 
+He is the coach. 
+He is a match coach. 
+He is a professional baseball player. 
+He is a professional cyclist. 
+He is a professional racer. 
+He's a car runner. 
+He is a professional volleyball player. 
+He is a professional golfer. 
+He is a professional basketball player. 
+He is a professional football player. 
+He is the game judge. 
+He is the registrar. 
+He is a sports instructor. 
+He is an entertaining instructor. 
+He is a sports agent. 
+He is a professional gamer. 
+He is a casino dealer. 
+He is a cheerleader. 
+She's golf course caddy. 
+He's a Korean cook. 
+He's the Sugar Cook. 
+He is a farmer. 
+He's a Japanese cook. 
+She's the group food caterer. 
+She's a barista. 
+It is a fast food restaurant. 
+She's a kitchen assistant. 
+He is a food stylist. 
+He is the attendant. 
+He is an architectural safety technician. 
+He is an environmental consultant. 
+He is the construction estimator. 
+He is a construction equipment technician. 
+He is the construction supervisor. 
+He is a construction technician. 
+He is an architectural engineer. 
+He is a civil engineer. 
+He is a civil engineering design engineer. 
+He is a civil engineering safety technician. 
+He is a traffic impact assessor. 
+He is a traffic safety researcher. 
+He has a traffic plan. 
+He is the planner of the city. 
+He is a surveyor. 
+That's the photogrammeter. 
+He is a mapping technician. 
+He is a Geographical Information Systems expert. 
+He is the building material tester. 
+He is an architectural woodcutter. 
+That is traditional building construction. 
+He is cooperative. 
+It's a waterproof ball. 
+That's glass. 
+She is baker, Nanbai. 
+He is the creation of the painter. 
+He is the construction plumber. 
+He is an industrial plumber. 
+He is a mining machine operator. 
+She's the light. 
+He is a stone cutting machine. 
+He is a traitor. 
+He is a dacoit. 
+He is a mechanics engineer. 
+He is a shipbuilding engineer. 
+He is a plant mechanical engineer. 
+He is a robot engineer. 
+He is a railway engineer. 
+He is an air conditioning technician. 
+He is an engine mechanic. 
+He is a construction machinery engineer. 
+He is a mechatronics engineer. 
+He is an aeronautical engineer. 
+He is an automotive engineer. 
+He is an industrial mechanic. 
+He's a garage mechanic. 
+He is a boiler installer. 
+He is a construction mechanic. 
+He's agricultural Mackeny. 
+He is a rail mechanic. 
+He is an auto mechanic. 
+He is the heating and air conditioning facility operator. 
+He's a car athlete. 
+He is auto parts associate. 
+He is the transport equipment coach. 
+It is a rail coach. 
+He is a metal technician. 
+He is a material engineer. 
+He is a nanotechnologist. 
+He is a forager. 
+He is a member of the state. 
+He is a welder. 
+He is a sprayer operator. 
+He is a chef. 
+He is a glass manufacturer. 
+He is a manufacturer of clay products. 
+He is a producer of minerals. 
+That is the valuation. 
+He is a petrochemical engineer. 
+He is a pharmaceutical chemical engineer. 
+He is a food and beverage chemical engineer. 
+He is a plastic chemical engineer. 
+He is a cosmetic chemical engineer. 
+He is a pesticide chemical engineer. 
+He is a chemical engineering examiner. 
+He is a fuel cell researcher. 
+He is a textile engineer. 
+He is a textile grade inspector. 
+He is the Hanbok creator. 
+She is a leather apparel manufacturer. 
+He is a garment inspector. 
+He is the replica. 
+He's sewing company. 
+He is a cobbler. 
+He is a transmission and distribution facility technician. 
+He is an electrical safety technician. 
+He is a power plant technician. 
+He is electrical measurement control technician. 
+He is electrical product development technician. 
+He is electronics development technician. 
+He is a semiconductor engineer. 
+He is electronic medical device development technician. 
+He is an industry head. 
+He is a foreigner. 
+He is the generator operator. 
+He is an electronic operator. 
+He is an electronics manufacturer. 
+He is a gas energy technician. 
+He is a solar researcher. 
+He is a wind turbine researcher. 
+He is visualist. 
+He is a digital image processing expert. 
+He is a computer hardware technician. 
+He is a communication engineer. 
+He is a communication technology developer. 
+He is a satellite development worker. 
+He is a communication technician. 
+He is a computer system supervisor. 
+He is computer system design analyst. 
+He is the manager of information systems. 
+He is an information and communication consultant. 
+He is a network programmer. 
+He is a network engineer. 
+He is a computer security expert. 
+He is a system software developer. 
+He is an application software developer. 
+He is a reality expert. 
+He is a game programmer. 
+He is a voice processing expert. 
+He is a web developer. 
+He is a web programmer. 
+He is a web engineer. 
+He is a web planner. 
+He is the game planner. 
+He is a database developer. 
+He is an information systems operator. 
+He is the network administrator. 
+He is a technical support specialist. 
+He is a telecom equipment expert. 
+He is the broadcaster. 
+He is the video tool representative. 
+He is a telecom equipment representative. 
+He is a food engineer. 
+That's the food test. 
+He is a confectioner. 
+He is the producer with Han. 
+He is a minister. 
+He is a qasi. 
+He is an employee in a side dish. 
+That's cigarette class. 
+That's the food grade circle. 
+He is a dairy processing machine operator. 
+He is a milling machine operator. 
+He is a machinator driver. 
+He is grain processing machine operator. 
+He is the machine operator for drinks. 
+He is a cigarette manufacturing operator. 
+He is a life science researcher. 
+He is a marine fish farmer. 
+He is an insect control expert. 
+He is an environmental engineer. 
+He is a greenhouse gas certification auditor. 
+He is an environmental consultant. 
+He is a soil engineering engineer. 
+He is an environmental impact assessor. 
+He is a noise and vibration technician. 
+He is a waste disposal technician. 
+He is an atmospheric environmental technician. 
+He is water quality environmental technician. 
+He is an environmental engineering examiner. 
+He is an ecoproduction certificate auditor. 
+He is an environmental inspector. 
+He is a bioenergy researcher. 
+He is a nuclear engineer. 
+He is a fire engineer. 
+It is an industrial safety source. 
+He is an energy expert. 
+He is the energy tester. 
+He is a water and sewage system operator. 
+He is creamatorium. 
+He is a printer operator. 
+He is a manufacturer of paper products. 
+He is a furniture manufacturer. 
+He is furniture colleague. 
+He is the furniture inspector. 
+He is an artisan of clay. 
+He is a Korean artisan. 
+It is a jewellery park. 
+He is an equipment manufacturer. 
+He is the coordinator. 
+He is the signature creator. 
+He's the wrapper. 
+He is a horticulture producer. 
+He's a gardener. 
+He is a livestock worker. 
+He is an animal trainer. 
+He's the hammer. 
+He is a fisherman. 
+He is an army officer. 
+He is an Air Force officer. 
+He is a naval officer. 
+It is the army's navy. 
+He is an Air Force N.C.O. Have. 
+It is the Naval Navy. 
+He is the architect. 
+He is an architect engineer. 
+He is a landscape engineer. 
+He is the pole manager. 
+He is the lease manager. 
+He is the dean of the college. 
+He is the head teacher. 
+He is sympathetic. 
+He is the manager of the capital. 
+He is a quality assurance expert. 
+He is a tax agent. 
+He's going to put jewelry. 
+He is the product planner. 
+He is a marketing researcher. 
+He is a labor office clerk. 
+He is an administrative clerk. 
+He is a road transport clerk. 
+He is an administrative assistant. 
+He is the secretary. 
+He is a stenographer. 
+He is the clerk of the ticket office. 
+He is a munshi. 
+It is a financial institution. 
+He is an agent of harm. 
+He is the insurance acquisition judge. 
+He's a credit checker. 
+He is a professor of humanities. 
+He is a professor of art. 
+He is a professor of engineering. 
+He is a college time lecturer. 
+He is the observer. 
+He is a geology researcher. 
+He is a climate change expert. 
+He is a bioinformation giver. 
+He is an academic researcher. 
+He is a linguistic researcher. 
+He is a geography researcher. 
+That is agricultural and forestry fisheries testing. 
+He is a physical education teacher. 
+He is a music teacher. 
+He is a math teacher. 
+He is a lecturer in a foreign language school. 
+He is a tuition teacher. 
+He is a marine police officer. 
+She's babysitter. 
+He's a doctor. 
+He is a pharmacist. 
+That's Chinese medicine. 
+She is the nurse of the family. 
+He is a hearing doctor. 
+She's the laughter therapist. 
+He is an aromatherapy doctor. 
+That's the interested article. 
+He is a phototologist. 
+She is masseuse. 
+He is a health scientist. 
+He is a dietitian. 
+That is a medical record. 
+He is a lifesaver. 
+She has articles on medical devices. 
+He is a former support expert. 
+He is an officer supporting the job. 
+He is a social worker. 
+He's a pastor. 
+He's charging. 
+She's the bride. 
+She is a monastic. 
+He is the publication editor. 
+He is a poet. 
+He is the game scenario writer. 
+He is the broadcast writer. 
+He is a copywriter. 
+He is a film screenwriter. 
+It is a cultural asset. 
+He is a sangatrash. 
+He is an artist. 
+He is a calligrapher. 
+He is a cartoonist. 
+It is the national anthem. 
+He is a singer. 
+She is a dancer. 
+He is a back dancer. 
+He is a choreographer. 
+He has to perform. 
+That view is the seller. 
+He is the director of the show. 
+He is an actor. 
+He is a stuntman. 
+He is a comedian. 
+He is a theatre actor. 
+That's the sample. 
+She is hosting entertainment programs. 
+He's hosting shopping. 
+That's acoustic story. 
+That video is the story. 
+He is a lighting expert. 
+She is a stage dresser. 
+He is a props manager. 
+He is the shipping officer. 
+He is the airline manager. 
+He is the engineer of the ship. 
+He is a forklift operator. 
+He is a freelancer. 
+That's the deck of the ship. 
+He is a product planning expert. 
+He has to sell at auction. 
+He is the ticket agent. 
+He's the sales representative. 
+She is child care assistant. 
+He is an unmanned security guard. 
+He is a player. 
+He is a parking attendant. 
+He is a skin care agent. 
+He is the bath manager. 
+She is a special dresser. 
+She is a pet hairdresser. 
+He is a housing service provider. 
+He is a playground worker. 
+He is a sports coach. 
+He is a professional golfer. 
+He is an entertaining lecturer. 
+He is a cook. 
+That group is cooking food. 
+He is the head of the fast food stall. 
+He is a civil engineer and environmental engineer. 
+He is a traffic planner. 
+That's building material testing. 
+That architect is rocky. 
+He is a traditional building architect. 
+That's tender. 
+He's the floor worker. 
+It is a maintenance team. 
+He is a plant mechanic. 
+He is a building engineer. 
+He is an avionics engineer. 
+He is an elevator mechanic. 
+He is an agricultural mechanic. 
+He is a helicopter maintenance worker. 
+He is an aircraft maintenance worker. 
+He is a mater artisan. 
+He is a metal machine operator. 
+He is an air conditioning unit operator. 
+He's the tool builder. 
+He is a girl. 
+He is a propeller. 
+He's tailor. 
+He is an electrical control technician. 
+He is an electrical product development engineer. 
+He is the industry leader. 
+He's the head out. 
+He is an office technician. 
+He is a consumer electronics dealer. 
+He is a wind energy researcher. 
+He is a telecommunications engineer. 
+It is a satellite development agency. 
+He is the developer of management information systems. 
+He is a voiceprocessing expert. 
+That's the article on communication devices. 
+It is broadcast broadcasting equipment. 
+He is Han and a producer. 
+He is a subsistence construction worker. 
+He is a dairy machine operator. 
+He is a marine fisherman. 
+He's pipe cleaner. 
+He is an atmospheric environmental engineer. 
+He is a water environment engineer. 
+He is the operator. 
+He is a hanji craftsman. 
+He's the tuner. 
+He is the landscape architect. 
+He is an Air Force officer. 
+He is a local councillor. 
+He is a government administrative manager. 
+He's the manager. 
+He is the performance production manager. 
+He is an art director. 
+He is the director of the library. 
+He is a water manager. 
+He is a labourer. 
+He is professional in quality certification. 
+He is a labour clerk. 
+He is an education administrator. 
+He is a production control clerk. 
+That's the number guide. 
+That's the management fee. 
+He is a researcher. 
+He is a flight ticket clerk. 
+It is a financial development company. 
+He is a securities broker. 
+He is a harmful agent. 
+He is the insurance insurer. 
+He is a professor of art and physical education. 
+He is a pundit. 
+He is the developer. 
+He is a fisheries researcher. 
+He is a foreign language instructor. 
+She is a multicultural language teacher. 
+He is an audit clerk. 
+She is an obstetrician. 
+She is a massage therapist. 
+That's nutrition. 
+He is protectionist. 
+He is a classical musician. 
+He is the player. 
+That should be a performance. 
+She is a fioffee designer. 
+That's the record label. 
+He is the Gyeongju announcer. 
+He is an accountant. 
+That is the sanctuary. 
+He is an acupuncturist. 
+He is adjustable. 
+He is an administrator. 
+He is the agent. 
+He is an airman. 
+He's Almonar. 
+He is an anaesthetist. 
+He is an anthropologist. 
+He is the mediator. 
+She is an arborist. 
+He is an archaeologist. 
+That's the archives. 
+He's armorer. 
+He is an aromatherapist. 
+He is artexor. 
+He is the evaluator. 
+He's helpful. 
+He is an astrologer. 
+He is an astronomer. 
+He is attendant. 
+He is an audiologist. 
+He is the auditor. 
+He's a bailiff. 
+He's a baker. 
+He is balloonist. 
+He's Barmed. 
+He's Banman. 
+He is a barrister. 
+She is a beautician. 
+He is a biochemist. 
+He is a biologist. 
+He is a blacksmith. 
+He is a bodyguard. 
+He is a book-keeper. 
+He is a bookmaker. 
+He is a botanist. 
+He's Brewer. 
+It is a bricklayer. 
+He is a broadcaster. 
+He's the builder. 
+He's Bursar. 
+He's a butcher. 
+He's butler. 
+He's the buyer. 
+He is a cameraman. 
+She's a carpenter. 
+He is a cartographer. 
+He is a cashier. 
+He is a caterer. 
+He's a coulker. 
+He is chamberamide. 
+He's Chapman. 
+He is all about. 
+He's a chef. 
+He is a chemist. 
+He is a childminder. 
+He is a chiropodist. 
+He is a chiropractor. 
+He's cleaner. 
+He's a clerk. 
+He has been commissioned. 
+He is the coroner. 
+He is a councillor. 
+He is a counsellor. 
+He's the dealer. 
+She's decorative. 
+He's a doctor. 
+He's the driver. 
+He is an economist. 
+He is an employee. 
+That's employment. 
+He is an engineer. 
+He's entertaining. 
+He is the messenger. 
+He's executive. 
+He is a fireman. 
+He's a florist. 
+He is a footballer. 
+He is a foreman. 
+He's a forrester. 
+He is fruity. 
+He's a gambler. 
+He is a gamekeeper. 
+He is genealogical. 
+He is geological. 
+He is a geologist. 
+He's a guilder. 
+He's glazier. 
+She's Goldsmith. 
+He is a golfer. 
+He is governor. 
+He is a graphologist. 
+He's a grocer. 
+She is a gynecologist. 
+He is a hairdresser. 
+He's handman. 
+He's a hawker. 
+He is a herbalist. 
+He is a historian. 
+He is a homeopath. 
+He is a homeworker. 
+He is horticulturist. 
+She is the hostess. 
+He is a hotelier. 
+He is a househusband. 
+He's the housekeeper. 
+She is a housewife. 
+He is a hypnosis therapist. 
+He is an instructor. 
+He's the interviewer. 
+He is the inventor. 
+He is an investigator. 
+He is a genitor. 
+He is a jeweler. 
+That's jewellery. 
+He's a jockey. 
+He is a joiner. 
+He is a journalist. 
+He is the judge. 
+He is a labourer. 
+He's the laminator. 
+He is Landlady. 
+He is the landlord. 
+He is a landowner. 
+He is a landworker. 
+He is a lecturer. 
+He is a librarian. 
+He is a licensee. 
+That's licensing. 
+He is a lifeguard. 
+He is a lightman. 
+He is the lineman. 
+He is linguistic. 
+He is a lithographer. 
+She's Locksmith. 
+He's lumberjack. 
+He is a magistrate. 
+She's a maid. 
+He is a manicurist. 
+He is a masseur. 
+That's massage. 
+He is a mathematician. 
+He is a mechanic. 
+He is the merchandiser. 
+He's a businessman. 
+He's messenger. 
+He is a metallurgist. 
+He is a meteorologist. 
+He is a microbiologist. 
+He is a midwife. 
+She is milky. 
+He's milkman. 
+He's Miller. 
+He's a miner. 
+He is a mineralist. 
+He is a moneylender. 
+He's a Mastian. 
+He is the navigator. 
+He is the interlocutor. 
+He is a neurologist. 
+It's a newspaper. 
+She's a nun. 
+He is a nurseryman. 
+He is a nutritionist. 
+That's the operation. 
+He is operative. 
+He is the operator. 
+He is an optician. 
+He is an optometrist. 
+He is orchestral. 
+He is the organizer. 
+He is an organist. 
+He is an ornithologist. 
+He is orthopedic. 
+He is an orthopist. 
+He is an osteopath. 
+He's Packer. 
+He is a pediatrician. 
+He is a painter. 
+He is a paramedic. 
+He is pasteurizer. 
+He is a pathologist. 
+That's patrolling. 
+He is a pharmacist. 
+He is a physicist. 
+He is a physiologist. 
+He is a physiotherapist. 
+He is a plasterer. 
+He's a platter. 
+He is a plumber. 
+He is a podiatrist. 
+He is a polisher. 
+He's Porter. 
+He is a postman. 
+He is a postmaster. 
+He is a postwoman. 
+That's Potter. 
+That's the campus. 
+He's the presser. 
+He is a priest. 
+That's the printer. 
+He is the creator. 
+He is projectionist. 
+He is a promoter. 
+He's the boss. 
+He is psychoanalyst. 
+He is a psychologist. 
+He is a publicist radiographer. 
+He is a radiologist. 
+He's a recorder. 
+He is the rector. 
+He is a reflexologist. 
+He is a regulator. 
+He's representative. 
+He is a restaurateur. 
+He's the riveter. 
+He is a roadworker. 
+He's sadler. 
+He's the loft. 
+He is a scientist. 
+He is a sculptor. 
+He's a servant. 
+He's Shepherd. 
+He's the sheriff. 
+He's shipwright. 
+He is a showman. 
+He's the shunter. 
+He is a signalman. 
+He's a signwriter. 
+He is the captain. 
+He's Slater. 
+He's a soldier. 
+He is a solicitor. 
+He is the stationer. 
+He's a steward. 
+He is a coward. 
+He's a stockbroker. 
+He's stockman. 
+He is a stocktaker. 
+He's stonemason. 
+He's a surgeon. 
+He's Tanner. 
+He is a tattooist. 
+He is a taxidermist. 
+He is a technician. 
+He is a telegraphist. 
+He is a telephonist. 
+He is a transcriptionist. 
+He is the treasurer. 
+He's a tuneler. 
+He's a tutor. 
+He's a typister. 
+He is a typist. 
+He's valuable. 
+He is ventriloquist. 
+She is a violinist. 
+He is the warden. 
+That's warehouse. 
+He's a watchmaker. 
+He's Weaver. 
+He is a zoologist. 
+He is a senior administration officer. 
+They are local Congressmen. 
+He is a Member of Parliament. 
+He is a senior corporate executive. 
+They have management support managers. 
+They are financial managers. 
+He is advertising manager. 
+They are human resource managers. 
+He is a government administrator. 
+They have insurance managers. 
+They are policemen. 
+They are leasing managers. 
+He is a kindergarten director. 
+He is the president of the university. 
+He is the dean of the college. 
+They are research managers. 
+They are police officers. 
+They're jailers. 
+They have firefighters. 
+He is a filmmaker. 
+They have production managers. 
+They have broadcast production manager. 
+He is newspaper production manager. 
+He is the director of the museum. 
+They are library heads. 
+They are construction operators. 
+They have mining managers. 
+They have electric gas managers. 
+They are capital managers. 
+They have sales managers. 
+They are the manager of the ship. 
+He is a restaurant manager. 
+He is the manager of the hotel. 
+They have cleaning managers. 
+They have expense managers. 
+They are diplomats. 
+They are labourers. 
+He is a human resource expert. 
+They are startup advisors. 
+They specialize in quality assurance. 
+They have management consultants. 
+He is a government policy expert. 
+They are bookkeepers. 
+They have tax collectors. 
+They are customs agents. 
+They are cultural property appraisers. 
+They have food and beverage appraisers. 
+They are jewelers. 
+They are ad planners. 
+They are category managers. 
+They have vendors. 
+They have the game market. 
+They are marketing experts. 
+They are research experts. 
+They are marketing research experts. 
+He is a social research expert. 
+They are event organizers. 
+They are performance planners. 
+They are the organizers of the meeting. 
+They are conference organizers. 
+He is a sales clerk. 
+They have business plan clerks. 
+They are marketing clerks. 
+He is the General Manager. 
+They are hospital administrators. 
+They are administrative officers. 
+They have tax administration clerks. 
+They are customs officers. 
+They are military officers. 
+They are officers of the court. 
+They are legislative officers. 
+They have immigration officers. 
+They have material management clerks. 
+They have quality control clerks. 
+They have business clerks. 
+They have shipping clerks. 
+They are post office clerks. 
+They are forwarders. 
+They have water transport clerks. 
+They're street clerks. 
+They are rail clerks. 
+They have air transport clerks. 
+They are logistics experts. 
+They are accounts clerks. 
+They are money clerks. 
+She is the receptionist. 
+They have museum guides. 
+They have convenience guides. 
+They are number one. 
+They have customer agents. 
+He is a statistician. 
+He is the General Secretary. 
+They have managing. 
+They have office assistants. 
+They are inventors. 
+They have shorthand. 
+They are hunters. 
+They are travel agents. 
+They have check-in clerks. 
+They are ticketing officers. 
+They are analysts. 
+They have credit analysts. 
+They have fund managers. 
+He is a real estate fund manager. 
+They are financial product developers. 
+They are securities agents. 
+They are forex traders. 
+They have futures brokers. 
+They are investment advisors. 
+They have insurance claims judge. 
+They are risk managers. 
+They have financial clerks. 
+They have insurance agents. 
+They have hairy. 
+They have credit scouts. 
+They are insurance planners. 
+He is a pro in the humanities. 
+He is a medical professor. 
+They have Education Pro. 
+He is a professor in engineering. 
+He is a natural professor. 
+He is a Professor of Social Sciences. 
+They have college time instructors. 
+They have scholarships. 
+They have admission officers. 
+He is Professor Prof. 
+He is college teaching assistant. 
+They are chemical researchers. 
+He is a physics researcher. 
+They are big data experts. 
+They are biological researchers. 
+He is a geologist. 
+They are experts on climate change. 
+He is a statistical researcher. 
+He is an astronomer. 
+He is a bioinformatics scientist. 
+He is a research scientist. 
+They are pharmacy researchers. 
+He is a medical scientist. 
+They have veterinarians. 
+He is an agricultural researcher. 
+They are fisheries researchers. 
+They are philosophy researchers. 
+He is a scholar. 
+He is a psychology researcher. 
+He is a researcher of linguistics. 
+They are history researchers. 
+He is a political scientist. 
+They are lawyers. 
+They are administrative researchers. 
+They are geographical researchers. 
+He is a sociology researcher. 
+He is a researcher of economics. 
+He is the airport inspector. 
+He is agricultural and forestry fisheries examiner. 
+They are Korean teachers. 
+He is an art teacher. 
+He is a science teacher. 
+They are profession counsellors. 
+They are foreign language teachers. 
+They are unemployed teachers. 
+They are social teachers. 
+They have veterinarians. 
+He is a primary school teacher. 
+They are special school teachers. 
+He is a co-teacher. 
+They are kindergarten teachers. 
+He is a multicultural language teacher. 
+They are Korean lecturers. 
+They are computer lecturers. 
+They are design lecturers. 
+They are conduction instructors. 
+They are cooking instructors. 
+They are beauty trainers. 
+They are teachers. 
+They are food researchers. 
+They are environmental ocean researchers. 
+They have inspectors. 
+They have judges. 
+They are prosecutrixes. 
+They have patent attorneys. 
+They have patent clerks. 
+They are copyright agents. 
+They are cyber agents. 
+They are maritime officers. 
+He is a teen school teacher. 
+They are medical doctors. 
+He is a family doctor. 
+They have dermatologists. 
+They are urologists. 
+He is an anesthesiaist. 
+He is a radiolocator. 
+He is a pediatrician. 
+They are psychiatrists. 
+They have eye doctors. 
+They have plastic surgeons. 
+They have surgeons. 
+They have dentists. 
+They are drug dealers. 
+They are medicine made of herbs. 
+They are nurses. 
+They are industrial nurses. 
+They are hospice nurses. 
+They have infection control nurses. 
+They have operating room nurses. 
+They are health educators. 
+They are dental healthy. 
+They have physical therapists. 
+He is an occupational therapist. 
+He is a clinical psychologist. 
+They are addictive doctors. 
+He is art therapist. 
+They are healers. 
+They are laughable healers. 
+They have aroma therapy. 
+They play with the doctor. 
+He is a speech therapist. 
+He is a clinical pathologist. 
+They have dental technicians. 
+They have willing assistants. 
+He is a health scientist. 
+They have nursing associates. 
+They are carers. 
+He is the clinical research coordinator. 
+He is the Medical Tourism Coordinator. 
+They have therapeutic tools. 
+They are social workers. 
+They are mental health social workers. 
+They have consultants. 
+They are former assistants. 
+They have career coaches. 
+They have job agents. 
+They have day care teachers. 
+They have wellness facility trainers. 
+They are preachers. 
+They have mental. 
+They're magicians. 
+They have publisher editors. 
+They are reviewers. 
+He is a lyricist. 
+He is a novelist. 
+They are translators. 
+They have interpreters. 
+They are publishers. 
+He is the head of the collector. 
+They are art consultants. 
+They are preservatives. 
+He is the library president. 
+They are going to have written proof. 
+They are magazine reporters. 
+They are commentators. 
+They are editors. 
+They're gonna do the news description. 
+He is a newspaper reporter. 
+They are photographers. 
+They have animators. 
+They are traditional entertainers. 
+They are conductors. 
+They are musicians. 
+They are furniture designers. 
+He is lighting designer. 
+He is a cell phone designer. 
+They are toy designers. 
+They are car designers. 
+He is a jewellery designer. 
+They are textile designers. 
+He is an underwear designer. 
+They are fashion designers. 
+They are shoe designers. 
+They are bag designers. 
+They are designers. 
+He is the stage designer. 
+They are interior decorators experts. 
+They have visual traders. 
+They have visual designers. 
+They are advertising designers. 
+They are book designers. 
+He is a colorist. 
+They are character designers. 
+They are packaging designers. 
+He is an illustrator. 
+They are web designers. 
+They are video graphic designers. 
+They have game graphic designers. 
+He is the film director. 
+He is a theatre director. 
+They are music planners. 
+He is an advertising director. 
+He is the broadcast director. 
+They are movie stars. 
+They have racing announcers. 
+They're disc jockeys. 
+They have video jockeys. 
+They're weather casters. 
+They are reporters. 
+They are announcers. 
+They are chowkidars. 
+They have entertainment managers. 
+They are fashion coordinators. 
+They are craftsmen. 
+He is the conductor of the ship. 
+They are airline operators. 
+They are airplane drivers. 
+They have helicopter pilots. 
+They are sailors. 
+They are marine agents. 
+They are pilots. 
+They have air traffic controllers. 
+They have rail traffic controllers. 
+They have ship traffic controller. 
+They have marshals. 
+They are taxi drivers. 
+They are the operator of the bus. 
+They are small truck drivers. 
+They have special car drivers. 
+They are big truck drivers. 
+They are private operators. 
+They have crane operators. 
+He is a forklift driver. 
+They are messengers. 
+They are letter bearers. 
+They are ship-to-ship. 
+He is a vessel engineer. 
+They have electrical observers. 
+They are car sellers. 
+They are commodity brokers. 
+They have auction houses. 
+They have ship brokers. 
+They are real estate consultants. 
+They are real estate agents. 
+He is a tax-free sales agent. 
+They have convenience store supervisors. 
+They are telecommunications sales agents. 
+They have internet sales agents. 
+They are telemarketers. 
+He is a commodity loan taker. 
+They are public relations assistants. 
+They have warehouses. 
+They have delivery aids. 
+They are bodyguards. 
+They are petition officers. 
+They are unsurpassed security guards. 
+They are security watchdogs. 
+They're gonna clean up. 
+They have hotel cleaners. 
+He is an environmentalist. 
+They have Raymond. 
+They are washermen. 
+They have meter gauge. 
+They have gas checkers. 
+They are collecters. 
+They have parking garages. 
+They have checkers. 
+They have barbers. 
+They are skin care takers. 
+They're gonna bathe. 
+He is a nail artist. 
+They are diet programmers. 
+They have special managers. 
+They are makeup artists. 
+They have pet beauty shop. 
+They are fashion consultants. 
+They have image consultants. 
+They are private shopkeepers. 
+They have marriage consultants. 
+They are wedding planners. 
+They are marriage workers. 
+He is the funeral director. 
+They are travel product developers. 
+He is an international travel agent. 
+They are naturalists. 
+They have tourist interpreters. 
+They have tour guides. 
+They are flight attendants. 
+They are the crew of the ship. 
+They have train crew. 
+They are the concierge of the hotel. 
+They have housing service. 
+They have play facility workers. 
+They have coaches. 
+He is the match coach. 
+He is a professional baseball player. 
+They are professional cyclists. 
+He is a professional racer. 
+They have car runners. 
+He is a professional volleyball player. 
+He is a professional golfer. 
+He is a professional basketball player. 
+He is a professional football player. 
+They have game judges. 
+They have registrars. 
+They have game trainers. 
+They are recreational trainers. 
+They have game agents. 
+He is a professional gamer. 
+They are casino dealers. 
+They are cheerleaders. 
+They have golf course caddy. 
+They're Korean cooks. 
+They have sugar cooks. 
+They are farmers. 
+They have Japanese cooks. 
+They have group food caterers. 
+They have barista. 
+They have fast food restaurants. 
+They have kitchen assistants. 
+He is a food stylist. 
+They are attendants. 
+They have architectural security technicians. 
+He is an environmental consultant. 
+They have construction estimators. 
+They have construction equipment technicians. 
+They have construction supervisors. 
+They have construction technicians. 
+He is an architectural engineer. 
+He is a civil engineer. 
+He is a Civil Engineering Design Engineer. 
+He is a civil engineering safety technician. 
+They have traffic impact assessors. 
+They are traffic safety researchers. 
+They have a traffic plan. 
+They are city planners. 
+They are surveyors. 
+They have photogrammeters. 
+They have mapping technicians. 
+He is a Geographical Information Systems expert. 
+They have building material tester. 
+They are architectural woodworkers. 
+They have traditional building construction. 
+They are cooperative. 
+They have waterproof balls. 
+They are supposed to do floor work. 
+They have glass. 
+They are bakers, nanbais. 
+They build painters. 
+They have construction plumbers. 
+They are industrial plumbers. 
+They are mining machine operators. 
+They have lights. 
+They have stone cutting machine. 
+They are greedy. 
+They are dacoits. 
+He is a mechanics engineer. 
+He is a shipbuilding engineer. 
+He is plant mechanical engineer. 
+They are robot engineers. 
+He is a rail engineer. 
+He is an air conditioning technician. 
+They have engine mechanics. 
+They are construction machinery engineers. 
+He is a mechatronics engineer. 
+He is an aeronautical engineer. 
+He is an automotive engineer. 
+He is an industrial mechanic. 
+They're garage mechanics. 
+They have boiler installers. 
+They have construction mechanics. 
+They have agricultural mackene. 
+They are rail mechanics. 
+They are auto mechanics. 
+They have heating and air conditioning facility operator. 
+They are car athletes. 
+They have auto parts affiliate. 
+They have transport equipment coaches. 
+They are shipbuilders. 
+They have rail coaches. 
+They are the tools to make. 
+They have metal technicians. 
+They are materials engineers. 
+He is a nanotechnologist. 
+They are metallurgists. 
+They have forgers. 
+They are members of the state. 
+They are welders. 
+They have sprayer operators. 
+They are cooks. 
+They are glass manufacturer. 
+They are manufacturers of clay products. 
+They are the creator of minerals. 
+They have appraisals. 
+He is a petrochemical engineer. 
+He is a pharmaceutical chemical engineer. 
+They are food and beverage chemical engineers. 
+He is a plastic chemical engineer. 
+He is a cosmetic chemical engineer. 
+They are pesticide chemical engineers. 
+He is a chemical engineering tester. 
+He is a fuel cell researcher. 
+He is a textile engineer. 
+He is a textile grade inspector. 
+They are hanbok manufacturers. 
+They are clothes makers. 
+They are leather apparel manufacturer. 
+They're supposed to repair the fur. 
+They are garment inspectors. 
+They are replicas. 
+They have sewing company. 
+They have cobblers. 
+They have transmission and distribution facility technicians. 
+They have electrical safety technicians. 
+They have power plant technicians. 
+They have electrical measurement control technicians. 
+They have electrical product development technicians. 
+He is electronics development technician. 
+He is a semiconductor engineer. 
+They have electronic medical equipment development technicians. 
+They are an industry major. 
+They are foreigners. 
+They are computer repairers. 
+They are office equipment repairers. 
+They are consumer electronics repairers. 
+They have generator operators. 
+They have electronic operators. 
+They are electronics manufacturers. 
+They have gas energy technicians. 
+They are solar researchers. 
+He is a wind turbine researcher. 
+They are visualists. 
+He is a digital image processing expert. 
+They have computer hardware technicians. 
+They are communication engineers. 
+They are communication technology developers. 
+They are satellite development workers. 
+They have communication technicians. 
+He is a computer system supervisor. 
+He is computer system design analyzer. 
+He is the manager of information systems. 
+They are information and communication consultants. 
+They are network programmers. 
+They are network engineers. 
+He is a computer security expert. 
+They are system software developers. 
+They are app software developers. 
+They are reality experts. 
+They have game programmers. 
+They are voice processing experts. 
+They are web developers. 
+They are web programmers. 
+They are web engineers. 
+They are web planners. 
+They are game planners. 
+They have database developers. 
+They are information systems operators. 
+They are network administrators. 
+They are technical support specialists. 
+They are telecommunication equipment experts. 
+They are broadcasters. 
+They have video tool reps. 
+They have telecommunication equipment representatives. 
+They are food engineers. 
+They have food tests. 
+They have confectioners. 
+They are manufacturers with Han. 
+He is a minister. 
+They are kasai. 
+They have employees in a side dish. 
+They have cigarette class. 
+They have food grade circles. 
+They are dairy processing machine operator. 
+They are milling machine operator. 
+He is the instrument driver. 
+They have grain processing machine operator. 
+They have machine operators for drinks. 
+They are cigarette manufacturing operators. 
+He is a life science researcher. 
+They are marine fish farmers. 
+He is an insect control expert. 
+They are environmental engineers. 
+He is a greenhouse gas certification auditor. 
+They are environmental consultants. 
+He is a soil engineering engineer. 
+They are environmental impact assessors. 
+They have noise and vibration technicians. 
+They have waste disposal technicians. 
+They have atmospheric environmental technicians. 
+They have water quality environmental technicians. 
+They are environmental engineering testers. 
+He is an ecoproduction certificate auditor. 
+They are environmental inspectors. 
+He is a bioenergy researcher. 
+They are nuclear engineers. 
+He is a fire engineer. 
+They are industrial safety sources. 
+They are energy experts. 
+They have energy testers. 
+They are water and sewage system operators. 
+They have creamatorium. 
+They have printer operators. 
+They are woodworkers. 
+They are manufacturers of paper products. 
+They are furniture manufacturers. 
+They are supposed to repair furniture. 
+They have furniture allies. 
+They have furniture inspectors. 
+They are clay artisans. 
+They are Korean artisans. 
+They have jewellery parks. 
+They are equipment manufacturers. 
+They are coordinators. 
+They are the instrument repairers. 
+They are signature makers. 
+They're wrapper. 
+They are grain crop growers. 
+They are special crop growers. 
+They are vegetable growers. 
+They are fruit crop growers. 
+They are horticultural producers. 
+They are flower growers. 
+They have gardeners. 
+They are livestock workers. 
+They are animal trainers. 
+They have hammer. 
+They are fishermen. 
+They are army officers. 
+He is an Air Force officer. 
+He is a naval officer. 
+They are the navy of the army. 
+They are Air Force NCOs. Have. 
+They are naval navy. 
+They are architects. 
+He is the architect engineer. 
+They have scenario engineers. 
+He is the poll manager. 
+They have lease managers. 
+He is the dean of the college. 
+He is the head teacher. 
+They are sympathetic. 
+He is the manager of the capital. 
+They have quality assurance experts. 
+They have tax agents. 
+They're gonna put jewelry. 
+They have product planners. 
+They are marketing researchers. 
+They have labor office clerks. 
+He is the administrative clerk. 
+He is a road transport clerk. 
+He is administrative assistant. 
+He is the secretary. 
+They are stenographers. 
+He is the clerk of the ticket office. 
+They are munshis. 
+They are financial institutions. 
+They are agents of harm. 
+They have insurance acquisition judges. 
+They have credit checkers. 
+He is a professor of humanities. 
+He is a professor of art. 
+He is a professor of engineering. 
+He is a college time lecturer. 
+They have observers. 
+He is a geology researcher. 
+They are climate change experts. 
+They are bioinformative. 
+They are academic researchers. 
+They are linguistic researchers. 
+He is a geography researcher. 
+They have agricultural and forestry fisheries testing. 
+He is a physical education teacher. 
+He is a music teacher. 
+He is a math teacher. 
+He is a lecturer in a foreign language school. 
+He is a tuition teacher. 
+They are marine police officers. 
+They have babysitter. 
+They are doctors. 
+He is a pharmacist. 
+They have Chinese medicine. 
+She is the nurse of the family. 
+They have hearing therapists. 
+They have laughter therapists. 
+He is an aromatherapy doctor. 
+They have interested articles. 
+He is a phototologist. 
+They have masseuse. 
+He is a health scientist. 
+They are dietitians. 
+They have medical records. 
+They are life-saving. 
+They have articles on medical devices. 
+They are pre-support experts. 
+He is the officer supporting the job. 
+They are social workers. 
+They're pastors. 
+They have charging. 
+They're brides. 
+They are monastics. 
+He is the publishing editor. 
+He is a poet. 
+He is the game scenario writer. 
+He is the broadcast writer. 
+They are copywriters. 
+He is a film screenwriter. 
+They have cultural assets. 
+They are compatible. 
+They are artists. 
+He is calligrapher. 
+He is a cartoonist. 
+They are the national anthem. 
+They are singers. 
+They are dancers. 
+He is a back dancer. 
+He is a choreographer. 
+They have to perform. 
+They are visual vendors. 
+He is the director of the show. 
+He is an actor. 
+They are stuntmen. 
+He is a comedian. 
+He is a theatre actor. 
+They sample. 
+They host entertainment programs. 
+They have shopping hosting. 
+They have acoustic story. 
+They have video stories. 
+They are lighting experts. 
+He is a stage dresser. 
+He is props manager. 
+They have shipping officers. 
+They are airline managers. 
+He is the engineer of the ship. 
+He is a forklift operator. 
+He is a freelancer. 
+They have the deck of the ship. 
+They are product planning experts. 
+They have to sell at auction. 
+They are ticket agents. 
+They are hawkers. 
+They have sales reps. 
+They are child care supportive. 
+They have unmanned security guards. 
+They are instrumentalists. 
+They have parking attendants. 
+They are skin care agents. 
+They have bath managers. 
+They have special dressers. 
+They have pet hairdressers. 
+They are housing service providers. 
+They have playground workers. 
+They have sports coaches. 
+They are professional golfers. 
+They have entertaining lecturers. 
+They are cooks. 
+They have to cook group meals. 
+He is the head of fast food stalls. 
+He is a civil engineer and environmental engineer. 
+They have traffic planners. 
+They have building material testing. 
+They are architects rocky. 
+He is the traditional building architect. 
+They have tender. 
+They are supposed to do floor work. 
+They have floor workers. 
+They are stone cutters. 
+They have maintenance teams. 
+He is a plant mechanic. 
+He is building engineer. 
+He is an avionics engineer. 
+They have lift mechanics. 
+He is an agricultural mechanic. 
+They have helicopter maintenance workers. 
+They have aircraft maintenance workers. 
+They are supposed to repair the motorcycle. 
+He is a mater artisan. 
+They are metal machine operators. 
+He is an air conditioning unit operator. 
+They have tool builders. 
+They are mulmachi. 
+They have propellers. 
+They're tailors. 
+They have electrical control technicians. 
+He is electrical product development engineer. 
+They are industry leaders. 
+They're the head out. 
+They have office technicians. 
+They are consumer electronics dealers. 
+He is a wind energy researcher. 
+He is a telecommunications engineer. 
+They have satellite development agency. 
+He is the developer of management information systems. 
+He is a voiceprocessing expert. 
+They have articles on communication devices. 
+They have broadcast broadcasting equipment. 
+They are bread makers. 
+They are Han and a producer. 
+They are subsistence construction workers. 
+They are dairy machine operators. 
+They are marine fishermen. 
+They have pipe cleaners. 
+They are atmospheric environmental engineers. 
+They are water environment engineers. 
+They are operators. 
+He is a hanji craftsman. 
+They have tuners. 
+They are vegetable growers. 
+They are fruit givers. 
+He is the landscape architect. 
+He is an Air Force officer. 
+He is a local councillor. 
+He is the government administrative manager. 
+They have managers. 
+They have performance production managers. 
+He is an art director. 
+He is the director of the library. 
+They are water managers. 
+He is a labourer. 
+They are professional in quality certification. 
+They are labor clerks. 
+He is an education administrator. 
+They have production control clerks. 
+They have number guides. 
+They have management fees. 
+They are researchers. 
+He is a flight ticket clerk. 
+They are financial development company. 
+They are securities brokers. 
+They are harmful agents. 
+They are insurance insurers. 
+He is professor of arts and physical education. 
+They are pundits. 
+They are developers. 
+He is a fisheries researcher. 
+They are foreign language instructors. 
+He is a multicultural language teacher. 
+He is an audit clerk. 
+She is an obstetrician. 
+They have a massage therapist. 
+They have nutrition. 
+They are life-saving. 
+They are protectionists. 
+He is a classical musician. 
+They are players. 
+They have to be a performance. 
+He is fioffee designer. 
+They have record labels. 
+He is the Gyeongju announcer. 
+They are accountants. 
+They have sanctuaries. 
+He is an acupuncturist. 
+They are adjusters. 
+They are administrators. 
+They have agents. 
+They are airmen. 
+They have almonar. 
+He is an anaesthetist. 
+They are anthropologists. 
+They are intermediaries. 
+He is an arborist. 
+He is an archaeologist. 
+They have archives. 
+They have armourers. 
+He is an aromatherapist. 
+They are artexors. 
+They are evaluators. 
+They are helpful. 
+They are astrologers. 
+They are astronomers. 
+They are attendants. 
+He is an audiologist. 
+They are auditors. 
+They have bailiffs. 
+They're bakers. 
+They are balloonists. 
+They have Barmed. 
+They're Banman. 
+They are barristers. 
+They are beauticians. 
+He is a biochemist. 
+They are biologists. 
+They are blacksmiths. 
+They are bodyguards. 
+They are book-keepers. 
+They are bookmakers. 
+They are botanists. 
+They have Brewer. 
+They have bricklayers. 
+They are broadcasters. 
+They are builders. 
+They have bursar. 
+They're butchers. 
+They're butlers. 
+They are buyers. 
+He is a cameraman. 
+They are caregivers. 
+They're carpenters. 
+He is a cartographer. 
+They are cashiers. 
+They are caterers. 
+They are collars. 
+They have chamberamide. 
+They're Chapman. 
+They have chaufur. 
+They are chefs. 
+They are chemists. 
+They are childminders. 
+He is chiropodist. 
+They are chiropractors. 
+They have cleaner. 
+They have clerks. 
+They have been commissioned. 
+They are coroners. 
+They are counsellors. 
+They are counsellors. 
+They have dealers. 
+They have decorative. 
+They're doctors. 
+They are drivers. 
+They are economists. 
+They are employees. 
+They have employment. 
+They are engineers. 
+They have entertaining. 
+They are messengers. 
+They are executive. 
+They are firemen. 
+They're florists. 
+They are footballers. 
+They're foreman. 
+They're Forrester. 
+They are fruity. 
+They are gamblers. 
+They are gamekeepers. 
+They have genealogy. 
+They have geological. 
+They are geologists. 
+They have guilders. 
+They're glazier. 
+They have Goldsmith. 
+They are golfers. 
+He is the governor. 
+He is a graphologist. 
+They're grocers. 
+They are gynecologists. 
+They are hairdressers. 
+They're handmen. 
+They're hawkers. 
+They are herbalists. 
+They are historians. 
+They have homeopaths. 
+They're homeworkers. 
+They are horticulturists. 
+They have hostesses. 
+They're hoteliers. 
+They are house-husbands. 
+They're housekeepers. 
+They are housewives. 
+They are hypnosis therapists. 
+They are trainers. 
+They are interviewers. 
+They are inventors. 
+They are investigators. 
+They are genitors. 
+They are jewelers. 
+They have jewellery. 
+They are jockeys. 
+They are joiners. 
+They are journalists. 
+They are judges. 
+They are labourers. 
+They have laminators. 
+They're Landladi. 
+They are landlords. 
+They are landowners. 
+They are landworkers. 
+They have lecturers. 
+They are librarians. 
+They are licensees. 
+They have licensing. 
+They are lifeguards. 
+They're lightmen. 
+They are linemen. 
+They have linguistic. 
+He is a lithographer. 
+They have locksmiths. 
+They're lumberjack. 
+They are magistrates. 
+They're maids. 
+He is a manicurist. 
+They have masseurs. 
+They have massage. 
+He is a mathematician. 
+They are mechanics. 
+They have merchandisers. 
+They are traders. 
+They have Messenger. 
+He is a metallurgist. 
+He is a meteorologist. 
+He is a microbiologist. 
+They are midwives. 
+They are milky. 
+They're milkmen. 
+They have Miller. 
+They're miners. 
+They are mineralists. 
+They are moneylenders. 
+They're Mostian. 
+They have navigators. 
+They are interlocutors. 
+They are neurologists. 
+They have newspapers. 
+They're nuns. 
+They are nurserymen. 
+They are nutritionists. 
+They have operations. 
+They have operative. 
+They have operators. 
+They are opticians. 
+He is an optometrist. 
+They are orchestral. 
+They have organizers. 
+They are orcharists. 
+He is an ornithologist. 
+They are orthopedic. 
+He is an orthopedist. 
+They have osteopaths. 
+They have Packer. 
+He is a pediatrician. 
+They are painters. 
+They are paramedics. 
+They have pasteurizers. 
+He is a pathologist. 
+They have patrolling. 
+They are pharmacists. 
+He is a physicist. 
+He is a physiologist. 
+He is a physiotherapist. 
+They're plasterers. 
+They're platters. 
+They're plumbers. 
+He is a podiatrist. 
+They have polishers. 
+They have porters. 
+They are postmen. 
+They are postmasters. 
+They have postwoman. 
+They have Potter. 
+They have premises. 
+They have pressers. 
+They are priests. 
+They have printers. 
+They are creators. 
+They are projectionists. 
+They are promoters. 
+They own. 
+He is psychoanalyst. 
+They have psychologists. 
+He is a publicist radiographer. 
+They have radiologists. 
+They have recorders. 
+They are rectors. 
+He is a reflexologist. 
+They are regulators. 
+They're supposed to repair. 
+They have representatives. 
+He is a restaurateur. 
+They have riveters. 
+He is a roadworker. 
+They're saddlers. 
+They have scaffolding. 
+They are scientists. 
+They are sculptors. 
+They are servants. 
+They're Shepherds. 
+They're sheriffs. 
+They have shipwright. 
+They are showmen. 
+They have shunters. 
+They are signalmen. 
+They have signwriters. 
+They are captains. 
+They have Slater. 
+They are soldiers. 
+They have solicitors. 
+They're stationers. 
+They're stewards. 
+They are heavy. 
+They are stockbrokers. 
+They're stockmen. 
+They have stocktakers. 
+They're Stonemason. 
+They have surgeons. 
+They're Tanner. 
+They are tattooists. 
+He is a taxidermist. 
+They have technicians. 
+He is a telegraphist. 
+He is a telephonist. 
+They are transcriptionists. 
+He is treasurer. 
+They have tunelers. 
+They have tutors. 
+They have typists. 
+They are typists. 
+They are valuable. 
+They have ventriloquist. 
+They are violinists. 
+They are wardens. 
+They have warehouses. 
+They are watchmakers. 
+They have weavers. 
+They are zoologists. 

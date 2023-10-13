@@ -1,0 +1,2628 @@
+He is a senior administration officer.
+He is a local congressman.
+He is a member of parliament.
+He is a senior corporate executive.
+He is the management's support manager.
+He is a financial manager.
+He is an advertising manager.
+He is a human resource manager.
+He is a government administrator.
+He is an insurance manager.
+He is a kindergarten director.
+He is the president of the university.
+He is the dean of the college.
+He is a research manager.
+He is a police officer.
+He is a jailer.
+He is a fire extinguisher.
+He is a filmmaker.
+He is a production manager.
+He is the Broadcast Production Manager.
+He is a newspaper production manager.
+He is the director of the museum.
+He is the head of the library.
+He is a construction director.
+He is a mining manager.
+He is an electric gas manager.
+He is a capital manager.
+He is a sales manager.
+He is the ship's manager.
+He is a restaurant manager.
+He is the manager of the hotel.
+He is a cleaning manager.
+He is an expense manager.
+He is a diplomat.
+He is a labourer.
+He is a human resource expert.
+He is a startup advisor.
+He is an expert in quality assurance.
+He is a management consultant.
+He is a government policy expert.
+He is a bookkeeper.
+He is a tax collector.
+He is a customs agent.
+He is a cultural property appraiser.
+He is a food and beverage appraiser.
+He is a jeweler.
+He is an ad planner.
+He is a category manager.
+He is a seller.
+That's a sports market.
+He is a marketing expert.
+He is a research expert.
+He is a marketing research expert.
+He is a social research expert.
+He is the event organizer.
+He is a performance planner.
+He is a meeting organizer.
+He is the organizer of the conference.
+He is a sales clerk.
+He is a business plan clerk.
+He is a marketing clerk.
+He is the general manager.
+He is a hospital administrator.
+He is an administrative officer.
+He is a tax administration clerk.
+He is a customs officer.
+He is a military officer.
+He is a court officer.
+He is a legislative officer.
+He is an immigration officer.
+He is a content management clerk.
+He is a quality control clerk.
+He is a business clerk.
+He is a shipping clerk.
+He is a post office clerk.
+He is a forwarder.
+He is a water transport clerk.
+He is a road clerk.
+He is a rail clerk.
+He is an air transport clerk.
+He is a logistics expert.
+He is an account clerk.
+He is a money clerk.
+He is a receptionist.
+He is a museum guide.
+That is a feature guide.
+That's number one.
+He is a customer agent.
+He is a statistician.
+He is the general secretary.
+That's management.
+He is an office assistant.
+He is an explorer.
+That's a shorthand.
+He is a hunter.
+He is a travel agent.
+He is a check-in clerk.
+He is a ticketing officer.
+He is an analyst.
+He is a credit analyst.
+He is a fund manager.
+He is a real estate fund manager.
+He is a financial product developer.
+He is a security agent.
+He is a foreign exchange trader.
+He is a futures broker.
+He is an investment advisor.
+He is an insurance claim judge.
+He is a risk manager.
+He is a financial clerk.
+He is an insurance agent.
+He is a cashier.
+He is a credit scout.
+He is an insurance planner.
+He is a professor in humanities.
+He is a medical professor.
+He is an education pro.
+He is a professor in engineering.
+He is a natural professor.
+He is a professor of social science.
+He is a college time instructor.
+That's a scholarship.
+He is an admissions officer.
+That professor is Prof.
+He is a college teaching assistant.
+He is a chemical researcher.
+He is a physics researcher.
+He is a big data expert.
+He is a biological researcher.
+He is a geologist.
+He is an expert on climate change.
+He is a statistical researcher.
+He is an astronologist.
+He is a bioinformatics scientist.
+He is a research scientist.
+He is a pharmacy researcher.
+He is a medical scientist.
+He is a veterinarian.
+He is an agricultural researcher.
+He is a fish researcher.
+He is a philosophy researcher.
+He is a pedantic researcher.
+He is a psychology researcher.
+He is a researcher of linguistics.
+He is a history researcher.
+He is a politician.
+He is a lawyer.
+He is an administrative researcher.
+He is a geographic researcher.
+He is a sociology researcher.
+He is a researcher of economics.
+He is an airport inspector.
+He is an agricultural and forestry fishery tester.
+He is a Korean teacher.
+He is an art teacher.
+He is a science teacher.
+That profession is a consultant.
+He is a foreign language teacher.
+He is an unemployed teacher.
+He is a social teacher.
+He is a veterinarian.
+He is a primary school teacher.
+He is a special school teacher.
+He is a co-teacher.
+He is a kindergarten teacher.
+He is a multicultural language teacher.
+He is a Korean lecturer.
+He is a computer lecturer.
+He is a design lecturer.
+He is a driving instructor.
+He is a cooking instructor.
+She is a beauty instructor.
+He is a teacher.
+He is a food researcher.
+He is an environmental ocean researcher.
+He is an inspector.
+He is a judge.
+He is a prosecutor.
+He is a patent attorney.
+He is a patent clerk.
+He is a copyright agent.
+He is a cyber agent.
+He is a maritime officer.
+He is a teacher of teenage school.
+He is a medical doctor.
+He is a family doctor.
+He is a dermatologist.
+He is a urologist.
+He is an anesthesiologist.
+He is a radiolocator.
+He is a pediatrician.
+He is a psychiatrist.
+He is an eye doctor.
+He is a plastic surgeon.
+He is a surgeon.
+He is a dentist.
+He is a drug dealer.
+It is a medicine made from herbs.
+She is a nurse.
+She is an industrial nurse.
+She is a hospice nurse.
+She is an infection control nurse.
+She is an operating room nurse.
+He is a health teacher.
+He is dental hygienic.
+He is a physical therapist.
+He is an occupational doctor.
+He is a clinical psychologist.
+He is an addictive doctor.
+He is an art therapist.
+He is a healer.
+He is a laughing healer.
+That is aromatherapy.
+He plays with the doctor.
+He is a speech therapist.
+He is a clinical pathologist.
+He is a dental technician.
+He is a willing assistant.
+He is a health scientist.
+She is a nursing associate.
+He is a caregiver.
+He is a clinical research coordinator.
+He is a medical tourism coordinator.
+It's a medical device.
+He is a social servant.
+He is a mental health social worker.
+He is an advisor.
+He is a former assistant.
+He is a career coach.
+He is a job agent.
+She is a day care teacher.
+He is a wellness facility instructor.
+He is a preacher.
+He's mental.
+He is a magician.
+He is a publisher editor.
+He is a reviewer.
+He is a lyricist.
+He is a novelist.
+She is a translator.
+He is an interpreter.
+He is a publisher.
+He is a museum president.
+He is an art consultant.
+He is a preservative.
+He is the library president.
+He is going to have written proof.
+He is a magazine correspondent.
+He is a commentator.
+He is the editor.
+He is going to describe the news.
+He is a newspaper reporter.
+He is a photographer.
+He is an animator.
+He is a traditional entertainer.
+He is a conductor.
+He is a musician.
+He is a furniture designer.
+He is a lighting designer.
+He is a cell phone designer.
+He is a toy designer.
+He is a car designer.
+He is a jewelry designer.
+He is a textile designer.
+She is an underwear designer.
+She is a fashion designer.
+He is a shoe designer.
+He is a bag designer.
+He is a designer.
+He is a stage designer.
+He is an interior decoration expert.
+He is a visual trader.
+He is a visual designer.
+He is an ad designer.
+He is a book designer.
+He is a colorist.
+That character is a designer.
+He is a packaging designer.
+He is an illustrator.
+He is a web designer.
+He is a video graphic designer.
+That game is a graphic designer.
+He is a film director.
+He is a theater director.
+He is a music planner.
+He is an advertising director.
+He is the Broadcast Director.
+He is a movie star.
+He is a racing announcer.
+He is a disc jockey.
+That video is a jockey.
+That weather is mild.
+He is a reporter.
+He is an announcer.
+He is a watchman.
+He is an entertainment manager.
+He is a fashion coordinator.
+He is a craftsman.
+He is the operator of the ship.
+He is an airline operator.
+He is an airplane driver.
+He is a helicopter pilot.
+He is a sailor.
+He is a marine agent.
+He is a pilot.
+He is the air traffic controller.
+He is a rail traffic controller.
+That ship is a traffic controller.
+He is a marshal.
+He is a taxi driver.
+He is a bus operator.
+He is a small truck driver.
+He is a special car driver.
+He is a big truck driver.
+He is a personal operator.
+He is a crane operator.
+He is a forklift driver.
+He is a messenger.
+He is a journalist.
+That's a ship's ship.
+He is a ship engineer.
+He is an electrical observer.
+He is a car seller.
+He is a commodity broker.
+That is the auction house.
+He is a ship's broker.
+He is a real estate consultant.
+He is a real estate agent.
+He is a tax-free sales agent.
+He is a convenience store supervisor.
+He is a telecom sales agent.
+He is an internet sales agent.
+He is a telemarketer.
+He is going to take a commodity loan.
+He is a public relations assistant.
+That's a warehouse.
+That delivery is helpful.
+He is a bodyguard.
+He is a petition officer.
+He is an unsurpassed security guard.
+He is a security watchdog.
+He is a cleanser.
+That hotel is cleaner.
+He is an environmentalist.
+That's Raymond.
+That's a laundry house.
+That's a meter gauge.
+That's a gas checker.
+He is a collector.
+That's a parking garage.
+That's a checker.
+She is a barber.
+He is a skincare.
+He is going to take a bath.
+She is a nail artist.
+He is a diet programmer.
+He is a special manager.
+She is a makeup artist.
+That is a pet beauty shop.
+She is a fashion consultant.
+He is an image consultant.
+He is a personal shopkeeper.
+She is a marriage advisor.
+He is a wedding planner.
+She is a wedding worker.
+He is the funeral director.
+He is a travel product developer.
+He is an international travel agent.
+He is a naturalist.
+He is a tourist interpreter.
+He is a tour guide.
+He is a flight attendant.
+He is the crew of the ship.
+He is a train crew.
+He is a concierge of the hotel.
+That's the accommodation service.
+He is a play-facility worker.
+He is a coach.
+He is a match coach.
+He is a professional baseball player.
+He is a professional cyclist.
+He is a professional racer.
+He's a car sprinter.
+He is a professional volleyball player.
+He is a professional golfer.
+He is a professional basketball player.
+He is a professional soccer player.
+He is a sports judge.
+He is the registrar.
+He is a sports instructor.
+He is an entertaining instructor.
+He is a sports agent.
+He is a professional gamer.
+He is a casino dealer.
+She is a cheerleader.
+He is a golf course caddy.
+He is a Korean cook.
+He is a Chinese cook.
+He is a farmer.
+He is a Japanese cook.
+He is a group food caterer.
+She is a barista.
+That is a fast food restaurant.
+He is a kitchen assistant.
+She is a food stylist.
+He is an attendant.
+He is an architectural safety technician.
+He is an environmental consultant.
+He is a construction estimator.
+He is a construction equipment technician.
+He is a construction supervisor.
+He is a construction technician.
+He is an architectural engineer.
+He is a civil engineer.
+He is a civil engineering design engineer.
+He is a civil engineering safety technician.
+He is a traffic impact estimator.
+He is a traffic safety researcher.
+That's a traffic plan.
+He is a city planner.
+He is a surveyor.
+That's a photogrammeter.
+He is a mapping technician.
+He is a geographic information system expert.
+He is a construction material tester.
+He is an architectural woodworker.
+That is traditional building construction.
+He's cooperative.
+It's a waterproof ball.
+That's glass.
+He is a baker, a baker.
+That is the creation of a painter.
+He is a construction plumber.
+He is an industrial plumber.
+He is a mining machine operator.
+That is light.
+That's a stone cutting machine.
+He is a diver.
+He's a mobster.
+He is a mechanical engineer.
+He is a shipbuilding engineer.
+That plant is a mechanical engineer.
+He is a robot engineer.
+He is a rail engineer.
+He is an air-conditioning technician.
+He is an engine mechanic.
+He is a construction machinery engineer.
+He is a mechatronics engineer.
+He is an aeronautical engineer.
+He is an automotive engineer.
+He is an industrial mechanic.
+He is a garage mechanic.
+He is a boiler installer.
+He is a construction mechanic.
+He is an agricultural mechanic.
+He is a rail mechanic.
+He is an auto mechanic.
+He is a heating and air conditioning facility operator.
+He is a car athlete.
+He is an auto parts partner.
+He is a transport equipment coach.
+He is a rail coach.
+He is a metal technician.
+He is a material engineer.
+He is a nanotechnologist.
+He is a forger.
+He is a member of the state.
+He is a welder.
+He is a sprayer operator.
+He's a chef.
+He is a glass maker.
+He is a manufacturer of clay products.
+He is a producer of minerals.
+That's an appraiser.
+He is a petrochemical engineer.
+He is a pharmaceutical chemical engineer.
+He is a food and beverage chemical engineer.
+He is a plastic chemical engineer.
+He is a cosmetic chemical engineer.
+He is a pesticide chemical engineer.
+He is a chemical engineering tester.
+He is a fuel cell researcher.
+He is a textile engineer.
+He is a textile grade inspector.
+He is a Hunbok maker.
+He is a leather apparel manufacturer.
+He is a garment inspector.
+That's the pattern.
+That's a sewing company.
+She is a mochi.
+He is a transmission and distribution facility technician.
+He is an electrical safety technician.
+He is a power plant technician.
+He is an electrical measurement control technician.
+He is an electrical product development technician.
+He is an electronics development technician.
+He is a semiconductor engineer.
+He is an electronic medical device development technician.
+He is an industry leader.
+He is a foreigner.
+He is a generator operator.
+He is an electronic operator.
+He is an electronics manufacturer.
+He is a gas energy technician.
+He is a solar researcher.
+He is a wind turbine researcher.
+He is a visionist.
+He is a digital image processing expert.
+He is a computer hardware technician.
+He is a communication engineer.
+He is a communication technology developer.
+He is a satellite development activist.
+He is a communication technician.
+He is a computer system supervisor.
+He is a computer system design analyst.
+He is the manager of the information system.
+He is an information and communication consultant.
+He is a network programmer.
+He is a network engineer.
+He is a computer security expert.
+He is a system software developer.
+He is an application software developer.
+He is a reality expert.
+He is a game programmer.
+He is a voice processing specialist.
+He is a web developer.
+He is a web programmer.
+He is a web engineer.
+He is a web planner.
+He is a game planner.
+He is a database developer.
+He is an information system operator.
+He is the network administrator.
+He is a technical support specialist.
+He is a telecommunication equipment specialist.
+He is a broadcaster.
+He is a representative of the video device.
+He is a telecom equipment representative.
+He is a food engineer.
+That's a food test.
+He is a confectioner.
+He is a producer with Han.
+He is a minister.
+He is a butcher.
+He is an employee in a side dish.
+That's the cigarette class.
+That's a food grade circle.
+He is a dairy processing machine operator.
+He is a milling machine operator.
+He is an instrument driver.
+He is a grain processing machine operator.
+He is a machine operator for drinks.
+He is a cigarette manufacturing operator.
+He is a life science researcher.
+He is a marine fish farmer.
+He is a pest control expert.
+He is an environmental engineer.
+He is a greenhouse gas certification auditor.
+He is an environmental consultant.
+He is a soil engineering engineer.
+He is an environmental impact estimator.
+He is a noise and vibration technician.
+He is a waste disposal technician.
+He is an atmospheric environment technician.
+He is a water quality environmental technician.
+He is an environmental engineering tester.
+He is an eco-production certificate auditor.
+He is an environmental inspector.
+He is a bioenergy researcher.
+He is a nuclear engineer.
+He is a fire engineer.
+It is an industrial security source.
+He is an energy expert.
+He is an energy tester.
+He is a water and sewage system operator.
+That's an incinerator.
+He is a printer operator.
+He is a manufacturer of paper products.
+He is a furniture manufacturer.
+He is a furniture partner.
+He is a furniture inspector.
+He is a clay craftsman.
+He is a Korean artisan.
+That is a jewellery park.
+He is a device manufacturer.
+He is the coordinator.
+He is the signature creator.
+He is a wrapper.
+He is a gardening producer.
+She is a Mali.
+He is a livestock worker.
+He is a trainer of animals.
+That's a hammer.
+He is a fisherman.
+He is an army officer.
+He is an Air Force officer.
+He is a naval officer.
+That is the navy of the army.
+That Air Force is NCO.
+That is a naval navy.
+He is an architect.
+He is an architect engineer.
+He is a landscape engineer.
+He is a poll manager.
+He is a lease manager.
+He is the dean of the college.
+He is the head teacher.
+He is sympathetic.
+He is the manager of the capital.
+He is a quality assurance expert.
+He is a tax agent.
+He is going to wear jewelry.
+He is a product planner.
+He is a marketing researcher.
+He is a labour office clerk.
+He is an administrative clerk.
+He is a road transport clerk.
+He is an administrative assistant.
+He is the secretary.
+He is a stenographer.
+He is a clerk at the ticket office.
+He is a scribe.
+That is a financial institution.
+He is an agent of harm.
+He is an insurance acquisition judge.
+That's a credit checker.
+He is a professor of humanities.
+He is a professor of art.
+He is a professor of engineering.
+He is a college time lecturer.
+He is an observer.
+He is a geology researcher.
+He is a climate change expert.
+He is a bioinformant.
+He is an academic researcher.
+He is a linguistic researcher.
+He is a geography researcher.
+That is agricultural and forestry fishery testing.
+He is a physical education teacher.
+He is a music teacher.
+He is a math teacher.
+He is a lecturer in a foreign language school.
+He is a tuition teacher.
+He is a maritime police officer.
+She is a babysitter.
+He is a doctor.
+He is a pharmacist.
+That is Chinese medicine.
+She is a family nurse.
+He is a hearing doctor.
+He is a laughter doctor.
+He is an aromatherapy doctor.
+That is an interesting article.
+He is an optician.
+She is a masseuse.
+He is a health scientist.
+He is a dietitian.
+That is a medical record.
+She is a life-saving.
+That's an article on medical devices.
+He is a former support specialist.
+He is a job support officer.
+He is a social activist.
+He is a pastor.
+That's a charge.
+She is a bride.
+That is Mathwasini.
+He is a publishing editor.
+He is a poet.
+He is a game scenario writer.
+He is a broadcast writer.
+He is a copywriter.
+He is a film screenwriter.
+That's a cultural property.
+He is a brave man.
+He is an artist.
+He is a calligrapher
+He's a cartoonist.
+That is the national anthem.
+He is a singer.
+She is a dancer.
+She is a back dancer.
+He is a choreographer.
+Perform that.
+He is a visual seller.
+He belongs to the director of the show.
+He is an actor.
+He's a stuntman.
+He is a comedian.
+He is a theatre actor.
+That's a model.
+She is a host of entertainment programs.
+That's a shopping host.
+That's an acoustic story.
+That's a video story.
+He is a lighting expert.
+He is a stage dresser.
+He is a props manager.
+He is a shipping officer.
+He is the airline manager.
+He is a ship's engineer.
+He is a forklift operator.
+He is a freelancer.
+That's the ship's deck.
+He is a product planning expert.
+It is to be sold at auction.
+He is a ticket agent.
+He is a sales representative.
+She is a child care assistant.
+He is an unmanned security guard.
+He is a player.
+He is a parking attendant.
+He is a skin care agent.
+He is a bath manager.
+That's a special dresser.
+He is a pet barber.
+He is a housing service provider.
+He is a playground worker.
+He is a sports coach.
+He is a professional golfer.
+He is an entertaining lecturer.
+He's a cook.
+That group is cooking food.
+He is the head of the fast food stall.
+He is a civil engineer and an environmental engineer.
+He is a traffic planner.
+That's construction material testing.
+That architect is rocky.
+He is a traditional building architect.
+That's tender.
+He is a floor worker.
+That's a maintenance team.
+He is a plant mechanic.
+He is a building - construction engineer.
+He is an avionics engineer.
+He is a lift mechanic.
+He is an agricultural mechanic.
+He is a helicopter maintenance worker.
+He is an aircraft maintenance worker.
+He is an artisan of matter.
+He is a metal machine operator.
+He is an air-conditioning unit operator.
+He is a tool builder.
+That's basic.
+That's a propeller.
+He's a tailor.
+He is an electrical control technician.
+He is an electrical product development engineer.
+He is a major industry.
+He is the main outside.
+He is an office technician.
+He is a consumer electronics dealer.
+He is a wind energy researcher.
+He is a telecom engineer.
+It is a satellite development agency.
+He is the developer of management information systems.
+He is a voice processing expert.
+That's an article on communication devices.
+That is a broadcast broadcasting tool.
+He is Han and a producer.
+He is a subsistence construction worker.
+He is a dairy machine operator.
+He is a marine fisherman.
+He is a pipe cleaner.
+He is an atmospheric environment engineer.
+He is a water environment engineer.
+He is a director.
+He is a Hanji craftsman.
+That's the tuner.
+He is a landscape architect.
+He is an Air Force officer.
+He is a local councillor.
+He is a government administrative manager.
+He is the manager.
+He is a performance production manager.
+He is an art director.
+He is the director of the library.
+He is a water manager.
+He is a laborer.
+He is professional in quality certification.
+He is a labour clerk.
+He is an education administrator.
+He is a production control clerk.
+That number is a guide.
+That is the management fee.
+He is a researcher.
+He is a flight ticket clerk.
+It is a financial development company.
+He is a securities broker.
+It is a harmful agent.
+He is an insurance insurer.
+He is a professor of art and physical education.
+He is a pundit.
+He is a developer.
+He is a fish researcher.
+He is a foreign language instructor.
+He is a multicultural language teacher.
+He is an audit clerk.
+She is a gynecologist.
+She is a massage therapist.
+That's nutrition.
+He is a protectionist.
+He is a classical musician.
+He is a player.
+That should be a performance.
+He is a Fiofi designer.
+That's a record label.
+He is a Gyeongju announcer.
+He is an accountant.
+That's a sanctuary.
+He is an acupuncturist.
+He is the adjuster.
+He is the administrator.
+He is an agent.
+He is an airman.
+He is an almoner.
+He is an anaesthetist.
+He is an anthropologist.
+He is a mediator.
+He is an arborist.
+He is an archaeologist.
+They are archives.
+He is an armourer.
+He is an aromatherapist.
+He is an artextor.
+He is an assessor.
+That's helpful.
+He is an astrologer.
+He is an astronomer.
+He is the attendant.
+He is an audiologist.
+He is an auditor.
+He is a bailiff.
+He is a baker.
+He is a balloonist.
+He's barmaid.
+He is Banman.
+He is a barrister.
+She is a beautician.
+He is a biochemist.
+He is a biologist.
+He is a blacksmith.
+He is a bodyguard.
+He is a bookkeeper.
+He is a bookmaker.
+He's a botanist.
+He's braver.
+That's a bricklayer.
+He is a broadcaster.
+He is a builder.
+He is a burser.
+He's a butcher.
+He's a butler.
+He is a buyer.
+He's a cameraman.
+He's a carpenter.
+He is a cartographer.
+He is a cashier.
+He is a caterer.
+He is a caulker.
+That's chambermaid.
+He is a chaplain.
+He is chauffeur.
+He is a chef.
+He is a chemist.
+She is a childminder.
+He is a chiropodist.
+He is a chiropractor.
+She is cleaner.
+He is a clerk.
+He has been commissioned.
+He is a coroner.
+He is a counselor.
+He is a counselor.
+He is a dealer.
+It's decorative.
+He is a doctor.
+He is a driver.
+He is an economist.
+He is an employee.
+That's employment.
+He is an engineer.
+That's entertaining.
+He is a messenger.
+He is an executive.
+He is a fireman.
+He is a florist.
+He is a soccer player.
+He is a foreman.
+He is a forester.
+He is fruitful.
+He is a gambler.
+He is a gamekeeper.
+That's a genealogy.
+He is a geologist.
+He is a geologist.
+He is a guilder.
+That's a glazier.
+He is Goldsmith.
+He is a golfer.
+He is the governor.
+He is a graphologist.
+He is a grocer.
+She is a gynaecologist.
+He's a hairdresser.
+He is a handman.
+He is a hawker.
+He is a herbalist.
+He is a historian.
+He is a homeopath.
+He is a homeworker.
+He is a horticulturist.
+She's a hostess.
+He is a hotelier.
+That's a houseband.
+He's a housekeeper.
+She is a homemaker.
+He is a hypnotherapist.
+He is an instructor.
+He is an interviewer.
+He is an inventor.
+He is an investigator.
+He is a janitor.
+He is a jeweller.
+That's an ornament.
+He's a jockey.
+He is a joiner.
+He is a journalist.
+He is a judge.
+He is a labourer.
+That's a laminator.
+She is a landlady.
+He is a landlord.
+He is a landowner.
+He is a landworker.
+He is a lecturer.
+He is a librarian.
+He is a licensee.
+That's licensing.
+He is a lifeguard.
+He's Lightman.
+He is a lineman.
+He is linguistic.
+He is a lithographer.
+He's a locksmith.
+That's a lumberjack.
+He is a magistrate.
+She's a maid.
+She is a manicurist.
+He is a masseur.
+That's a massage.
+He is a mathematician.
+He's a mechanic.
+He is a merchandiser.
+He is a businessman.
+That's a messenger.
+He is a metallurgist.
+He is a meteorologist.
+He is a microbiologist.
+She is a midwife.
+That's Milky.
+He is a milkman.
+That's Miller.
+He is a miner.
+That is mineralogical.
+That's a moneylender.
+He is Mostian.
+That's a navigator.
+He is a negotiator.
+He is a neurologist.
+That's a newspaper.
+She is a nun.
+He is a nurseryman.
+He is a nutritionist.
+That's an operation.
+He is operative.
+He is an operator.
+He is an optician.
+He is an optometrist.
+That's orchestral.
+He is the organizer.
+He is an organist.
+He is an ornithologist.
+He is orthopedic.
+He is an orthoptist.
+He is an osteopath.
+He is a packer.
+He is a pediatrician.
+He is a painter.
+He is a paramedic.
+It's a pasteurizer.
+He is a pathologist.
+That's a patrol.
+He is a pharmacist.
+He is a physicist.
+He is a physiologist.
+He is a physiotherapist.
+He is a plasterer.
+That's a platter.
+He is a plumber.
+He is a podiatrist.
+That's a polisher.
+He's a porter.
+He is a postman.
+He is a postmaster.
+She is a postwoman.
+That's Potter.
+That's the campus.
+He is the presser.
+He is a priest.
+That's a printer.
+He is the creator.
+He is a projectionist.
+He is a promoter.
+He is the owner.
+He is a psychoanalyst.
+He is a psychologist.
+He is a preacher curredeographer.
+He is a radiologist.
+That's the recorder.
+He is a rector.
+He is a reflexologist.
+That's a regulator.
+He is a representative.
+He is a restaurateur.
+He's a riveter.
+He is a roadworker.
+He is a saddler.
+That's scaffolding.
+He is a scientist.
+He is a sculptor.
+He is a servant.
+He's a Shepherd.
+He is a sheriff.
+That's a shipwright.
+He is a showman.
+That's a shunter.
+He is a signalman.
+He's a signwriter.
+He is the captain.
+He is a slater.
+He is a soldier.
+He is a solicitor.
+He is a stationer.
+He's a steward.
+He is grateful.
+He is a stockbroker.
+He's Stockman.
+He is a stocktaker.
+That's a stonemason.
+He is a surgeon.
+He is a tanner.
+He is a tattooist.
+He is a taxidermist.
+He is a technician.
+He is a telegraphist.
+He's a telephonist.
+He is a transcriptor.
+He is the treasurer.
+That's tunneller.
+He is a tutor.
+That's a typeter.
+He is a typist.
+That's valuable.
+He is a ventriloquist.
+He is a violinist.
+He is a warden.
+That's a warehouse.
+He is a watchmaker.
+She is a weaver.
+He is a zoologist.
+That's abnormal.
+He is on the run.
+He is absent.
+That's humiliating.
+That's uninterrupted.
+That's accidental.
+He is cursed.
+That's Acerbic.
+That's sharp.
+That's rude.
+He is addicted.
+That's unfavourable.
+He is a victim.
+He's aggressive.
+That is Agad.
+He is spinning.
+He's sick.
+He is aimless.
+That's dangerous.
+He is allergic.
+That's different.
+That's unclear.
+He is an anarchist.
+He's angry.
+That is Anjuthi.
+That's annoying.
+That's inconsistent.
+He is antagonistic.
+He is anti-American.
+He is anti-Israeli.
+That's an antagonistic business.
+He is anti-spread.
+He is anti-Semitic.
+He's anti-social.
+It's anti-white.
+That's antipathy.
+He's worried.
+He is indifferent.
+That's horrifying.
+He is frightened.
+That's archaic.
+That's reasonable.
+He is arrogant.
+He's embarrassed.
+That's asinine.
+He is a tyrant.
+That's horrible.
+He is backward.
+That's bad.
+That's banal.
+He is bankrupt.
+He's barbaric.
+That's baseless.
+That's an animal.
+That's useless.
+He is belligerent.
+That's bursak.
+That's the best.
+That's weird.
+He is biased.
+That's a big one.
+She's a dog.
+That's bitter.
+That's faulty.
+That's a blend.
+That's blasphemy.
+That's foggy.
+He's Bleemith.
+That's blister.
+That's a blockhead.
+She's bloody.
+That's bogus.
+He's generous.
+That's a bombing.
+That's boring.
+She's upset.
+He's a Braggart.
+She is brainless.
+She is a brain.
+He's a brat.
+They are given a bribe.
+That's bristling.
+It's brittle.
+It's broken.
+He is hurt.
+That's cruel.
+That's bugging.
+That's nonsense.
+That's a burden.
+It's burning.
+That's timeless.
+That's a callus.
+He's a cannibal.
+She's strong.
+He's careless.
+That's a massacre.
+That's a casualty.
+That's devastating.
+That's caustic.
+That's challenging.
+He is cheating.
+She's cheerful.
+That's childhood.
+He's unknown.
+She's clumsy.
+That's clunky.
+That's a cock.
+That is coercion.
+That's cold.
+That's the combination.
+He is complacent.
+That's complicated.
+That's binding.
+That's related.
+That deserves to be condemned.
+He is gracious.
+That's limited.
+That's controversial.
+He's confused.
+That's misleading.
+He is conservative.
+That's special.
+He is a conspirator.
+It's contagious.
+It's corrupted.
+That's contempt.
+He is contemptuous.
+That's contradictory.
+That's controversial.
+It's corrosive.
+That's expensive.
+That's cowardice.
+That's crabby.
+She's cranky.
+He's angry.
+That's the cross.
+That's scary.
+He is a criminal.
+He's crooked.
+That's crude.
+He is a creamy.
+He's raw.
+He is crying.
+He is a criminal.
+That's cumbersome.
+He's cursed.
+That's balustrade.
+She's freak.
+He is cynical.
+It's damaged.
+That's doweling.
+He is amazed.
+That's deadly.
+He's weak.
+That's decisive.
+That's decay.
+He's a cheater.
+That's defensive.
+That's missing.
+He is impure.
+He's confused.
+That's conduct.
+He is monstrous.
+That is ethics.
+That's dense.
+He's disadvantaged.
+She's sad.
+That's derivative.
+That's disappointing.
+That's desolate.
+That's a disappointment.
+He's desperate.
+That's disgusting.
+He's stopping.
+That's disgusting.
+That's harmful.
+That's satanic.
+He is diabetic.
+He's disappointed.
+That's a dictatorship.
+That's hard.
+It's destroyed.
+She is dim.
+He disagrees.
+He is in disarray.
+That's inconvenient.
+It's disintegrated.
+That's discontent.
+It's unbalanced.
+That's discouraged.
+That's discriminatory.
+He is contemptuous.
+He is dissatisfied.
+That's Ditte Persuading.
+He is dishonest.
+He's reluctant.
+That is loyalty.
+He is disobedient.
+That's disorganized.
+He's distracted.
+He is displaced.
+He's angry.
+That's infallible.
+It's executable.
+That's disruptive.
+That's distasteful.
+That's a distraction.
+He is distressed.
+He's distrustful.
+That's divisive.
+That's ruined.
+That's suspicious.
+That's a downcast.
+That's a drab.
+He is drunk.
+That's a dudd.
+She's dull.
+He is dead.
+He's arrogant.
+That's embarrassing.
+It's empty.
+He is an enemy.
+He is a slave.
+He has been hanged.
+He's jealous.
+That's wrong.
+That's irregular.
+That's evil.
+That's exaggerated.
+That's too much.
+He is illiterate.
+That's explosive.
+He is an extremist.
+That's ignored.
+He is efficient.
+It's failing.
+He's unconscious.
+He is faithless.
+That's fake.
+He falls.
+That famine is that.
+He's a fanatic.
+That's imaginary.
+He is far away.
+That's far away.
+He is a fascist.
+That's stunning.
+He is a felon.
+That's a fever.
+She's dirty.
+That's Flabbergastead.
+That's flagged.
+It's fragrant.
+He's stupid.
+He is strong.
+He is forgetful.
+That's Forolorn.
+He has a natural appearance.
+That's dishonest.
+That's a fracture.
+He is frantic.
+That's weird.
+That's a quarrel.
+That's frost.
+It's frozen.
+That's fruitless.
+He's furious.
+That's useless.
+That's garbage.
+That's Garish.
+That's a glib.
+That's glorating.
+That's glum.
+That's angry.
+It's smooth.
+He's greedy.
+She is unhappy.
+That's grime.
+That's grisly.
+That's gross.
+She's angry.
+He is guilty.
+That's innocent.
+He's a haggard.
+He is half excited.
+That's a hallucination.
+That's interrupted.
+He gets hardened.
+That's tough.
+It's too early.
+That is hatred.
+That's a hunt.
+That's hair.
+That's a headache.
+He is heartless.
+He is a heathan.
+That's hedonistic.
+That's heinous.
+He's helpless.
+He is a heretic.
+That's hesitant.
+That's an obstacle.
+That's hollow.
+He is a hooligan.
+He's hostile.
+That's hothouse.
+That's Hubaris.
+She is hurt.
+He is a hypocrite.
+That's hysterical.
+He's stupid.
+He's inactive.
+That's ignorant.
+He's ignorant.
+They are advised ill.
+That's sick treatment.
+He's immature.
+That's immoral.
+He's impatient.
+That's imperfect.
+That's important.
+That's impenetrable.
+That's implicit.
+That's unsettling.
+That's impossible.
+That's impractical.
+That's unfair.
+He's impulsive.
+That's inadequate.
+That's Aisen.
+He is inattentive.
+That's inaudible.
+He is incapable.
+He is unworthy.
+That's continuous.
+That's inefficient.
+That's unbelievable.
+That's obscene.
+That's uncertain.
+That is indulgence.
+That's ineffective.
+That's unequal.
+He's naive.
+That's notorious.
+He's infected.
+He is inferior.
+That's inflammatory.
+She's flexible.
+It is interrupted.
+It's obsolete.
+That's inhuman.
+That's mad.
+He is insatiable.
+That's unsafe.
+That's insecurity.
+He's insensitive.
+That's fraudulent.
+That's insignificant.
+That's irreplaceable.
+He is intolerant.
+He is infiltrating.
+That's irrational.
+That's irrelevant.
+He's irritable.
+That's Jade.
+He's jealous.
+That's geering.
+He is a murderer.
+She is a nave.
+That is perplexable.
+That's lawless.
+He's lazy.
+He is a lecturer.
+That's leery.
+That's lethargy.
+He is responsible.
+That's a liar.
+He is lonely.
+He is losing.
+That's breathtaking.
+He is loveless.
+He is underrated.
+That's less.
+That's malicious.
+He is mediocre.
+That is arbitration.
+She's ruthless.
+That's messy.
+He is mindless.
+He is misbehaving.
+She's naughty.
+He is misguided.
+That is misunderstood.
+He is mocked.
+He is solitary.
+She's moody.
+He has been mortified.
+That's mortifying.
+He is motionless.
+He is mournful.
+That's bad.
+That's nausea.
+He is in need.
+That's negative.
+He's nervous.
+He is neurotic.
+That's a nightmare.
+That's toxic.
+That's a nuisance.
+She is numb.
+That's obesity.
+That's unpleasant.
+She's obsessive.
+He is an opportunist.
+That's oppressive.
+That's a boycott.
+He's a robber.
+It is highly publicized.
+That's more valuable.
+That's overbearing.
+He is overpaid.
+He's overrated.
+That's awesome.
+He is very enthusiastic.
+That's painful.
+He's nervous.
+It's a parasite.
+That's an alternative.
+That's miserable.
+He is surprised.
+He is persecuted.
+That's pervasiveness.
+That's distorted.
+He is pessimistic.
+He's phobic.
+He is stealing.
+He's a looter.
+That's poisonous.
+That's pomp.
+He is poor.
+He's violent.
+That's prejudice.
+That's Eastern.
+That's valuable.
+That's problematic.
+That's unholy.
+That's exciting.
+That's punishable.
+That's cryptic.
+He is rabid.
+He is a racist.
+That's the rank.
+He's a scoundrel.
+That's a rash.
+He is a rebel.
+That's a reprimand.
+That's unnecessary.
+That's regret.
+That's a rejection.
+She's innocent.
+That's repulsive.
+That's repetitive.
+That's scandalous.
+That's retribution.
+She's anxious.
+That's restrictive.
+He is copying.
+He is rebelling.
+That's ridiculous.
+That's risky.
+It's rotten.
+That's fat.
+That's rude.
+He is a ruffian.
+She's powerful.
+That's Sardonic.
+That's barbarism.
+That's a rape.
+That's suspicious.
+That's scrapy.
+It's spoiled.
+That's scum.
+That's imminent.
+That's something.
+That is self-destructive.
+He is selfish.
+That's shabby.
+She's shady.
+That's shallow.
+He's shocked.
+He gets killed.
+He has been abandoned.
+That's silly.
+That's simple.
+He is a sinner.
+He is skittish.
+That's a bad name.
+That's slogging.
+That's snapish.
+He's a snobby.
+That's sad.
+It's sour.
+He is soulless.
+She is spitful.
+That's sporadic.
+She is stable.
+That's stifling.
+He has been stigmatized.
+He's stinging.
+That's stingy.
+That's stressful.
+That's strong.
+He's stubborn.
+That's stumped.
+That is subjugation.
+He's humble.
+He is subject.
+That's bad.
+That's sucking.
+He is prosecuted.
+She is suicidal.
+That's superficial.
+That's essential.
+He is superstitious.
+It is suppressed.
+He is very susceptible.
+She's tainted.
+He's tardy.
+That tarnith is that.
+He is harassing.
+He is doing it.
+That's exhausting.
+That's tepid.
+He is horrified.
+That's a testimony.
+She's thankful.
+He's thorny.
+He is thoughtless.
+He is threatening.
+He's a swindler.
+He's tired.
+He is victimized.
+She's torturous.
+He is a totalitarian.
+She is touchy.
+He is a traitor.
+He's stuck.
+She hurts.
+She is unfaithful.
+That's political.
+He's turned.
+That's unacceptable.
+That's unauthorized.
+That's unbearable.
+That's unclean.
+That's uncomfortable.
+That's unconnected.
+He is uncooperative.
+That's unofficial.
+That's indomitable.
+He has been weakened.
+He's underpaid.
+That's undesirable.
+That's unannounced.
+That's unpredictable.
+He is unfaithful.
+That's unfailing.
+He is forgiving.
+That's unfortunate.
+That's baseless.
+He is unfriendly.
+That's unavailable.
+That's unique.
+He is ungrateful.
+That's unjust.
+That's illegal.
+That's unnatural.
+That's unreserved.
+He is unpopular.
+He is not ready.
+That's unproductive.
+That's a non-profit.
+That's unrealistic.
+That's unresponsive.
+That's uncontrolled.
+That's unsatisfactory.
+That's unstable.
+That's tortuous.
+That's untrue.
+That's unwanted.
+That's unhealthy.
+That's unwise.
+That's turmoil.
+That's Vagrant.
+That is counterviolence.
+That's toxic.
+He's evil.
+That's a villa.
+He's a villain.
+He is vindictive.
+He's vocal.
+That's vomiting.
+It's like war.
+He is careful.
+He's tired.
+That's worse.
+He is injured.
+She's playful.
+He's corrupt.
+That's the opposite.
+He is a timid man.
+He's clever.
+That's tight.
+That's dirty.
+He's accidental.
+He's timid.
+That's scary.
+He is criminal.
+He is a reviewer.
+That's fragile.
+That's useless.
+That's a curse.
+That's a defeat.
+That's weak.
+He's a cheater.
+She is insidious.
+That's old.
+That is defamation.
+That's infamous.
+That's a shortcoming.
+That's low.
+That's bad.
+He's dead.
+That thou thou thou hai.
+That's despicable.
+That's a delay.
+That's delayed.
+He is delusional.
+She is Mohit.
+He is a destroyer.
+That's regrettable.
+That's depression.
+They are potholes.
+That's sarcastic.
+That's unholy.
+That's unreasonable.
+That's insignificant.
+She is desperate.
+He is a dictator.
+He is autocratic.
+He is destitute.
+That's missing.
+That's going to deteriorate.
+That's preventative.
+That's disgusting.
+That's a breach.
+That's a stigma.
+That's a hindrance in the way.
+That's a loss.
+That's a catastrophe.
+That's a deviation.
+He is the devil.
+That is hatred.
+It's free.
+He is fiendish.
+It's symmetric.
+That's Diatrebus.
+That's a doubt.
+That's bad bad.
+That's a dilemma.
+That's a diet.
+That's a loss.
+That's the drain.
+It's dry.
+He is an alcoholic.
+That's arrogance.
+That's strong.
+That's an epidemic.
+That's equivocal.
+That's over.
+That's exploitation.
+That's a failure.
+He's hungry.
+She's hardcore.
+That's Falls.
+That's a lie.
+That's fraudulent.
+That's able-bodied.
+That's weak.
+He is retarded.
+That's a novel.
+That's fictitious.
+That's a fidget.
+He's quarrelsome.
+That's horrible.
+That's a mess.
+That's a wound.
+He is a scoundrel.
+That's rubbish.
+He is a ghost.
+That's fake.
+That's a pain.
+That's wild.
+She is Maya.
+That's the obstacle.
+That's compelling.
+That is heresy.
+That's hell.
+That's it.
+She is stubborn.
+That's groaning.
+She has vomited.
+That's upset.
+She is immaculate.
+That's tasteless.
+That's incomplete.
+That's unexpected.
+That is inexcusable.
+That's a bad luck.
+He is subjugated.
+That's undefined.
+That is sustainability.
+That salt is haraam.
+He is horror.
+It's smelly.
+He is lifeless.
+She's weak.
+He is dumb.
+That's disgraceful.
+That's rare.
+That's great.
+She's shameless.
+He is heartless.
+That's problematic.
+That's the problem.
+That's procrastinating.
+He is stunned.
+That's abundant.
+It's accessible.
+He is admired.
+That's pure.
+That's achievable.
+That's an achievement.
+That's achievable.
+He is sharp.
+It's adaptive.
+That's enough.
+It's adjustable.
+That's commendable.
+He is very favorite.
+He is a devotee.
+He is skillful.
+That is false praise.
+That's profitable.
+He is courageous.
+He is friendly.
+She is affectionate.
+That's intimacy.
+That is affirmation.
+That's positive.
+That is prosperity.
+He is tolerated.
+That's affordable.
+She's agile.
+He is agility.
+He agrees.
+He agrees.
+He's all around.
+She is delightful.
+He is altruistic.
+That is to amaze.
+He is surprised.
+That's a surprise.
+He is ambitious.
+That's progress.
+That's real.
+That comfort is convenience.
+That is sociability.
+He is good.
+She is friendly.
+That is mind-boggling.
+That's entertaining.
+He is an angel.
+She is divine.
+That's attractive.
+That's appreciation.
+That's fair.
+That's approval.
+That's acceptable.
+He is enthusiastic.
+That's ardor.
+That's clear.
+He's knotty.
+That is aspiration.
+That is an ambition.
+That's insurance.
+Those are assurances.
+That's assurance.
+He's confident.
+He is amazed.
+He is surprised.
+That's amazing.
+That's amazing.
+He is conscious.
+That's an attraction.
+It's audible.
+That's good.
+He's reliable.
+That's official.
+He is autonomous.
+That's available.
+He's curious.
+That's a prize.
+He is respected.
+That's fear.
+He's awake.
+That's awesome.
+That's a reed bone.
+It's balanced.
+That's a bargain.
+That's indicative.
+That's possible.
+He is believable.
+Wo jaanam hai.
+That's beneficial.
+He is a beneficiary.
+That's benefits.
+That's the best.
+He is the most knowledgeable.
+That's the best performance.
+That's the best selling.
+That's better.
+He is better known.
+That's better than expected.
+That is uncondemned.
+That is a blessing.
+He is lively.
+That's healthy.
+That's a bonus.
+That's a bonus.
+That's a boom.
+That's booming.
+That's a boost.
+That's limitless.
+She is a brainchild.
+He is intelligent.
+He is brave.
+That's bravery.
+That's applause.
+That's a crack.
+Those are successes.
+That is breathlessness.
+That's breathtaking.
+That's talent.
+That's fantastic.
+He's brilliant.
+That's fast.
+He is delighted.
+He's quiet.
+That's calming.
+That's peace.
+That's potential.
+He is capable.
+That's delightful.
+He's careless.
+That's celebrated.
+He is the winner.
+He is a champion.
+She is charismatic.
+He is charitable.
+He is holy.
+That's cheering.
+She's cheerful.
+She is delighted.
+She is Cherish.
+She is nourished.
+That's the cherry.
+That's chic.
+He's generous.
+That is chivalry.
+That is etiquette.
+That is to make civilized.
+That's clarity.
+That's a classic.
+That's classy.
+That's clean.
+That's clear.
+That is cleanliness.
+He's clever.
+That's friendly.
+That is to be mobilized.
+That's consistent.
+It's colorful.
+That's comfort.
+That's comfortable.
+They provide comfort.
+That's commendable.
+That's a commitment.
+That's huge.
+It's dense.
+That is compassion.
+He is kind.
+That's consistent.
+He is competitive.
+That's complementary.
+That's complemented.
+It's like a supplement.
+That's a complaint.
+That's praise.
+That's complimentary.
+That's comprehensive.
+That's faith.
+He's honest.
+He is thoughtful.
+He's creative.
+That's the content.
+That's cold.
+He is the best.
+He is a collaborator.
+That's the right thing.
+That's adventurous.
+He's humble.
+That's the rule.
+That is the suffix.
+That's crunchy.
+He is a cushion.
+That's innocence.
+That is to be stung.
+He's dear.
+He is fearless.
+That's dawn.
+That's dazzling.
+That's a surprise.
+That's dazzling.
+He is dead.
+That's decent.
+That's decisive.
+That is certainty.
+He is dedicated.
+He is the protector.
+That's an honor.
+He's clever.
+He is unviable.
+That's delicate.
+That's delicious.
+She is delightful.
+He deserves.
+That's desired.
+That's lust.
+He is interested.
+That's religious.
+He is arrogant.
+That is to be hospitalized.
+He is hard working.
+He is a diplomat.
+That shit is cheap.
+That's special.
+It's diverse.
+That's dominance.
+He is dominant.
+He's stupid.
+That is certainly the case.
+That's dummy proof.
+It's durable.
+It's dynamic.
+That's curious.
+That's easy.
+That is the easiest.
+That's ecological.
+It's cost-effective.
+That's ecstasy.
+That's hysterical.
+That's effective.
+That's effectiveness.
+It's functional.
+That's efficacious.
+He is efficient.
+That's simple.
+That is incontinent.
+That's elegance.
+She is elegant.
+That's eloquence.
+He is eloquent.
+He is famous.
+That's empathy.
+That is empowerment.
+She is enchanting.
+That's encouraging.
+That's lovely.
+That's support.
+He has supported it.
+That's confirmation.
+That's powerful.
+It is full of energy.
+That's energy saving.
+That is pleasant.
+That is enhancing.
+That's enhanced.
+That's growth.
+Enjoy that.
+That's pleasant.
+That is enjoyable.
+It's been fun.
+That's fun.
+That gull is to blossom.
+That's achievable.
+That is to inform.
+That is enlightenment.
+He is alive.
+That is to make you sublime.
+That is to enchant.
+That is to cheer up.
+He has grown up.
+He is prosperous.
+He is an entrepreneur.
+That's entertainment.
+That is to be enslaved.
+She's thrilled.
+That is so exciting.
+That's excitement.
+He is an enthusiast.
+That's excited.
+That's tempting.
+She is Mohit.
+That's charming.
+That's delightful.
+That is to be handed over.
+That's deep.
+That's spiritually.
+That's jealousy.
+That's jealousy.
+That is justified.
+She is free from mistakes.
+He is a scientist.
+That's ethical.
+That is to praise.
+That's celebration.
+That's encouraging.
+That's equal.
+It's enduring.
+That's suggestive.
+That is to admire.
+That's Umang Hai.
+That's high.
+That's exaggerated.
+That's excessive.
+That's a test.
+That's excellent.
+It's more than that.
+It is exceeded.
+That's great.
+It's more than that.
+That's Excel.
+That's excellent.
+That's excellent performance.
+That's excellence.
+He is a believer.
+That's excellent.
+That's extraordinary.
+That's special.
+That's excite.
+That is to get excited.
+She's excited.
+That's in an exciting way.
+He has to be taken out.
+That's illustrative.
+That is to make you happy.
+That's exhilarating.
+She is from life
+That's exhilarating.
+That right is to be restored.
+That's expansive.
+That's quick.
+That's an expert form.
+She is exquisite.
+That's exuberance.
+That's exceptionally.
+That's too much.
+That's prolific.
+It's abundant.
+That is to be engrossed.
+That's fast.
+That's eye-catching.
+That's fierce.
+That's convenience.
+That's fair.
+That's enough.
+That's fairness.
+That is faith.
+He is faithful.
+That's honesty.
+That is devotion.
+He is famous.
+He is famous.
+He is famous.
+He is a fan.
+That's clever.
+That's imagination.
+That's pomp.
+He's a fan.
+That's awesome.
+That's whimsical.
+That's teasing.
+That's attractive.
+That's hypnosis.
+That's fashionable.
+That's fast.
+They grow fast.
+She is fast paced.
+That's faster.
+He is the fastest.
+He is the fastest growing.
+He's innocent.
+That's a favor.
+She is favored.
+He is a favorite.
+That's fearless.
+That's possible.
+That is probably the case.
+That's a feat.
+She is frugal.
+She is Samant.
+That is very pleasing.
+She is supremely happy.
+That is supreme happiness.
+That's fertile.
+He is fervent.
+That's huge.
+That's passion.
+That's a celebration.
+He is faithful to the truth.
+He's furious.
+That's fine.
+That is subtlety.
+That's fine.
+That's great.
+She's strong.
+That's first class.
+He is first-in-class.
+That's first grade.
+It's bright.
+That is to flatter.
+That's flattering.
+She's innocent.
+It's flawless.
+She's flexible.
+She is to flourish.
+It is flourishing.
+He is fluent.
+That's flutter.
+That is love.
+He is Anurag.
+That's the most important.
+That is foresight.
+That's formidable.
+That's patience.
+That's accidental.
+It's fragrant.
+That's free.
+That's fresh.
+He is fresher.
+That's fresh.
+That is friendship.
+That's glee.
+That's fruitful.
+That is fulfillment.
+That is bliss.
+That's fun.
+That is beneficial.
+He is brave.
+That's abundance.
+That is a gem.
+He is a gentleman.
+She is mild.
+That's real.
+She's shiny.
+That is glorification.
+That's glorious.
+That's glory.
+That's the glow.
+It is full of light.
+That is God's blessing.
+That God is sending.
+He is godly.
+That's gold.
+That's gold.
+She is Vineet.
+That's big.
+She's thankful.
+That is satisfaction.
+That is satisfaction.
+That is gratitude.
+That's satisfying.
+Thank you for that.
+That's the greatest.
+That's unprecedented.
+He's innocent.
+She's happy.
+That's tough.
+That's harmless.
+That's harmonious.
+She is healthy.
+He is heavenly.
+That's useful.
+She's hilarious.
+She is honorable.
+He is hopeful.
+He is hospitable.
+That's ideal.
+She is serene.
+That's imaginative.
+That's too much.
+That's fairness.
+He is impulsive.
+It's impeccable.
+That's important.
+That's impressive.
+That's advanced.
+That's unbelievable.
+He is gracious.
+That's infallible.
+That's innocuous.
+That's innovative.
+That's practical.
+That's inspiring.
+That's helpful.
+It's inseparable.
+That is intelligence.
+That's interesting.
+That's invaluable.
+He's inventive.
+That is to strengthen.
+That's invincible.
+That's undivided.
+That's impenetrable.
+She is stable.
+He's relentless.
+She's humorous.
+That's hilarious.
+She is delightful.
+She is blissful.
+He is knowledgeable.
+That's leadership.
+That's LED.
+He is a life saver.
+He is delighted.
+I like that.
+That's logical.
+He is loyal.
+He's lucky.
+He is the luckiest.
+That's beneficial.
+She is bright.
+She is beautiful.
+That glory is great.
+That's a dictatorship.
+That's incredible.
+He is an adult.
+That's worthwhile.
+That's unforgettable.
+He is delightful.
+He has jumped up.
+That is mesmerizing.
+She is mesmerizing.
+That's subtle.
+He is Shaktiman.
+He's mind-blown.
+That's a miracle.
+That's amazing.
+That's modern.
+That's modest.
+That's the most important.
+That is memorable.
+He's inspired.
+That's multi-purpose.
+That's the cleanest.
+That's good.
+She is the best.
+That's great.
+He is noiseless.
+That's Ahins.
+That's non-violent.
+That's important.
+That's filling.
+That's innovation.
+That's nutrition.
+That's openness.
+That's optimal.
+That's optimism.
+He's optimistic.
+He has to perform better.
+That is cheerful.
+That's cool.
+He's overtaken.
+That is fast progress.
+That's the proposal.
+That's luxurious.
+That's heaven.
+That's free of blame.
+That's passion.
+He is a patient.
+He is a patriot.
+He is patriotic.
+He is peaceful.
+She is peaceful.
+That is a peace establishment.
+That's a peach.
+That's unique.
+That's a peon.
+That's functional.
+That's great.
+That is perfection.
+That is permissible.
+That's perseverance.
+She's strong.
+He has stayed.
+He is a person.
+He's personal.
+It's picturesque.
+That is silence.
+That's the peak.
+She's playful.
+That is pleasant.
+That's pleasing.
+That is pleasure.
+That's a plus.
+That's ridicule.
+He is old.
+That is to do poetry.
+That's poignant.
+That's the balance.
+He is moving towards him.
+That's polished.
+That's popular.
+It's portable.
+She is complimented.
+He is preeminent.
+That's expensive.
+They like it.
+He is the chief.
+That is prestige.
+She is iconic.
+That is pride.
+He is a theorist.
+That's a privilege.
+He is privileged.
+That's the reward.
+She's active.
+He is free from problems.
+That's a troubleshooter.
+That's fantastic.
+That's a wonderful thing.
+He's productive.
+He is proficient.
+That's intense.
+That's abundance.
+That's progress.
+That's progressive.
+She is fertile.
+That's fame.
+He is a promoter.
+That's safety.
+That's defensive.
+That has been proved.
+That proves.
+That is frugal.
+That's proven.
+That's skill.
+He is prudent.
+He is punctual.
+That's purposeful.
+That's weird.
+That qualifies.
+She is radiant.
+That's intense.
+That's the relationship.
+She is delighted.
+He's excited.
+He is temperamental.
+That's reasonable.
+That's a sharp edge.
+It's reachable.
+It's readable.
+She's ready.
+That's a reaffirmation.
+That's worth experiencing.
+That's the logic.
+He is receptive.
+That's a reclaim.
+That's recommended.
+That is to recommend.
+Those are recommendations.
+He's recommended.
+That solution is to be made.
+That's reconciliation.
+That record is established.
+That's recovery.
+That's a health benefit.
+That's avoidance.
+That is to improve.
+That's improvement.
+That's in lieu of that.
+That's redeem.
+That's redemption.
+That's refined.
+That's sophisticated.
+That is refinement.
+Those are reforms.
+That's a refund of money.
+She's returned it.
+That is joy.
+That's rejuvenation.
+That's relaxed.
+It deserves space.
+She's strong.
+He is resourceful.
+That's a moratorium.
+She is resplendent.
+He is responsible.
+That's sorry.
+That's restored.
+That's a restructuring.
+That deserves to be abandoned.
+That's Revel.
+That's a revelation.
+She is Shraddha.
+He is faithful.
+He's resurrected.
+That is re-enforcement.
+Wo Jaan Hai.
+That's revolutionary.
+That's a radical change.
+That's rewarding.
+That's right.
+He is justifiable.
+That is religion.
+That's the truth.
+He's a rockstar.
+He is a rock star.
+He is affectionate.
+That's romantic.
+That's pink.
+That's safe.
+That is intelligence.
+That's a cent.
+That is holiness.
+That's smart.
+He is satisfied.
+That's normal intelligence.
+It's seamless.
+He's experienced.
+He is selective.
+That is self-determination.
+He is self-sufficient.
+That's emotional.
+She's sensitive.
+That's fast.
+He's smart.
+That's smooth.
+That's easy.
+That's soft.
+It's soft.
+That's worrying.
+That's solid.
+That is to calm down.
+That's complicated.
+She is emotional.
+She is happy.
+That's awesome.
+That is to fascinate.
+He is spiritual.
+That's Dhoom Tan Hai.
+That's natural.
+She is sporty.
+That's stability.
+It's stainless.
+She has to look different.
+It's state-of-the-art.
+She's curvy.
+That's regular.
+That's stellar.
+That is to encourage.
+That's exciting.
+It's well organized.
+That's a blow.
+That's an effort.
+That's stunned.
+That's so huge.
+She is stylish.
+It's stylized.
+That's successful.
+He is sublime.
+He is a successor.
+She is successful.
+That's suitable.
+She is magnificent.
+That is business.
+That's super.
+That is superiority.
+She is soft.
+He is a supporter.
+He is supreme.
+That's real.
+He is a survivor.
+He is talented.
+That's tempting.
+That's tempting.
+That's tender.
+He is humbly.
+That's horrible.
+That's thank you.
+He is grateful.
+He is careful.
+That thinking is understandable.
+That is caution.
+That's economical.
+That's exciting.
+That time is honorable.
+That's timely.
+He is above.
+It is transparent.
+That's a treasure.
+That's Triumph.
+She is victorious.
+Trust him.
+That's credibility.
+She's trustworthy.
+That is truthfulness.
+He is immovable.
+He is unaffected.
+That's unbeatable.
+That's uninterrupted.
+That is non-existent.
+That's understandable.
+He is unencumbered.
+He is anxious.
+He is autocratic.
+That's undeniable.
+That's unrealistic.
+It's unrestricted.
+That's unmatched.
+He is unhappy.
+She's excited.
+That is uplifting.
+That's valuable.
+That is a variety.
+It's versatile.
+She's alive.
+He is aware.
+That's imaginary.
+He is noble.
+It is nutritious.
+He is ridiculous.
+That's awesome.
+It is worth it.
+That's eligibility.
+He is young.
