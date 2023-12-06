@@ -4,4 +4,4 @@ Code and Data for Evaluation of Gender Bias in Hindi-English Machine Translation
 ## Paper
 
 Gender Inflected or Bias Inflicted: On Using Grammatical Gender Cues for Bias Evaluation in Machine Translation
-https://arxiv.org/abs/2311.03767
+https://arxiv.org/abs/2311.03767 (AACL-IJCNLP SRW 2023)
